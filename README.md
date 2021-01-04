@@ -13,13 +13,6 @@
 - [divine/test](https://github.com/divine/test) -  (6 months ago)
 - [E-404/xmpp-servers](https://github.com/E-404/xmpp-servers) -  (9 months ago)
 
-#### 🌱 My latest projects
-
-- [divine/i18n-static-redirect](https://github.com/divine/i18n-static-redirect) - 
-- [divine/nuxt-payload-error](https://github.com/divine/nuxt-payload-error) - 
-- [divine/reserved-usernames](https://github.com/divine/reserved-usernames) - Reserved usernames
-- [divine/test](https://github.com/divine/test) - 
-
 #### 🔭 Latest releases I've contributed to
 
 - [nuxt-community/axios-module](https://github.com/nuxt-community/axios-module) ([v5.12.5](https://github.com/nuxt-community/axios-module/releases/tag/v5.12.5), today) - Secure and easy axios integration with Nuxt.js
