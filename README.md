@@ -9,8 +9,6 @@
 - [jenssegers/laravel-mongodb](https://github.com/jenssegers/laravel-mongodb) - A MongoDB based Eloquent model and Query builder for Laravel (Moloquent) (2 weeks ago)
 - [nuxt-community/i18n-module](https://github.com/nuxt-community/i18n-module) - i18n for Nuxt (1 month ago)
 - [divine/i18n-static-redirect](https://github.com/divine/i18n-static-redirect) -  (3 months ago)
-- [divine/nuxt-payload-error](https://github.com/divine/nuxt-payload-error) -  (4 months ago)
-- [divine/test](https://github.com/divine/test) -  (6 months ago)
 - [E-404/xmpp-servers](https://github.com/E-404/xmpp-servers) -  (9 months ago)
 
 #### 🔭 Latest releases I've contributed to
