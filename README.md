@@ -18,7 +18,7 @@
 - [jenssegers/laravel-mongodb](https://github.com/jenssegers/laravel-mongodb) ([v3.8.2](https://github.com/jenssegers/laravel-mongodb/releases/tag/v3.8.2), 3 weeks ago) - A MongoDB based Eloquent model and Query builder for Laravel (Moloquent)
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v2.6.0-beta.1](https://github.com/api-platform/api-platform/releases/tag/v2.6.0-beta.1), 3 weeks ago) - REST and GraphQL framework to build modern API-driven projects (server-side and client-side)
 - [api-platform/core](https://github.com/api-platform/core) ([v2.6.0-beta.1](https://github.com/api-platform/core/releases/tag/v2.6.0-beta.1), 3 weeks ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [divine/reserved-usernames](https://github.com/divine/reserved-usernames) ([2.0](https://github.com/divine/reserved-usernames/releases/tag/2.0), 4 weeks ago) - Reserved usernames
+- [divine/reserved-usernames](https://github.com/divine/reserved-usernames) ([2.0](https://github.com/divine/reserved-usernames/releases/tag/2.0), 1 month ago) - Reserved usernames
 
 #### 💬 Feedback
 You never know how strong you are, until being strong is the only choice you have.
