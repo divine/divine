@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [nuxt-community/axios-module](https://github.com/nuxt-community/axios-module) - Secure and easy axios integration with Nuxt.js (2 weeks ago)
-- [divine/reserved-usernames](https://github.com/divine/reserved-usernames) - Reserved usernames (2 weeks ago)
+- [divine/reserved-usernames](https://github.com/divine/reserved-usernames) - Reserved usernames (3 weeks ago)
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) - REST and GraphQL framework to build modern API-driven projects (server-side and client-side) (3 weeks ago)
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (3 weeks ago)
 - [jenssegers/laravel-mongodb](https://github.com/jenssegers/laravel-mongodb) - A MongoDB based Eloquent model and Query builder for Laravel (Moloquent) (1 month ago)
