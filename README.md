@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [processone/ejabberd](https://github.com/processone/ejabberd) - Robust, Ubiquitous and Massively Scalable Messaging Platform (XMPP, MQTT, SIP Server) (today)
 - [nuxt/content](https://github.com/nuxt/content) - Nuxt Content lets you write in a content/ directory and fetch your Markdown, JSON, YAML, XML and CSV files through a MongoDB like API, acting as a Git-based Headless CMS (1 week ago)
 - [nuxt-community/axios-module](https://github.com/nuxt-community/axios-module) - Secure and easy axios integration with Nuxt.js (4 weeks ago)
 - [divine/reserved-usernames](https://github.com/divine/reserved-usernames) - Reserved usernames (1 month ago)
