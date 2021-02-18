@@ -11,11 +11,11 @@
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (1 month ago)
 - [nuxt-community/i18n-module](https://github.com/nuxt-community/i18n-module) - i18n for Nuxt (2 months ago)
 - [divine/i18n-static-redirect](https://github.com/divine/i18n-static-redirect) -  (4 months ago)
-- [E-404/xmpp-servers](https://github.com/E-404/xmpp-servers) -  (10 months ago)
+- [E-404/xmpp-servers](https://github.com/E-404/xmpp-servers) -  (11 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [nuxt-community/i18n-module](https://github.com/nuxt-community/i18n-module) ([v6.20.1](https://github.com/nuxt-community/i18n-module/releases/tag/v6.20.1), 2 days ago) - i18n for Nuxt
+- [nuxt-community/i18n-module](https://github.com/nuxt-community/i18n-module) ([v6.20.1](https://github.com/nuxt-community/i18n-module/releases/tag/v6.20.1), 3 days ago) - i18n for Nuxt
 - [nuxt/content](https://github.com/nuxt/content) ([@nuxt/content@1.13.0](https://github.com/nuxt/content/releases/tag/%40nuxt%2Fcontent%401.13.0), 1 week ago) - Nuxt Content lets you write in a content/ directory and fetch your Markdown, JSON, YAML, XML and CSV files through a MongoDB like API, acting as a Git-based Headless CMS
 - [nuxt-community/axios-module](https://github.com/nuxt-community/axios-module) ([v5.13.1](https://github.com/nuxt-community/axios-module/releases/tag/v5.13.1), 1 week ago) - Secure and easy axios integration with Nuxt.js
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v2.6.2](https://github.com/api-platform/api-platform/releases/tag/v2.6.2), 1 week ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
