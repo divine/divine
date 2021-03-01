@@ -15,7 +15,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [nuxt-community/i18n-module](https://github.com/nuxt-community/i18n-module) ([v6.20.3](https://github.com/nuxt-community/i18n-module/releases/tag/v6.20.3), 5 days ago) - i18n for Nuxt
+- [nuxt-community/i18n-module](https://github.com/nuxt-community/i18n-module) ([v6.20.4](https://github.com/nuxt-community/i18n-module/releases/tag/v6.20.4), today) - i18n for Nuxt
 - [jenssegers/laravel-mongodb](https://github.com/jenssegers/laravel-mongodb) ([v3.8.3](https://github.com/jenssegers/laravel-mongodb/releases/tag/v3.8.3), 1 week ago) - A MongoDB based Eloquent model and Query builder for Laravel (Moloquent)
 - [nuxt/content](https://github.com/nuxt/content) ([@nuxt/content@1.13.0](https://github.com/nuxt/content/releases/tag/%40nuxt%2Fcontent%401.13.0), 2 weeks ago) - Nuxt Content lets you write in a content/ directory and fetch your Markdown, JSON, YAML, XML and CSV files through a MongoDB like API, acting as a Git-based Headless CMS
 - [nuxt-community/axios-module](https://github.com/nuxt-community/axios-module) ([v5.13.1](https://github.com/nuxt-community/axios-module/releases/tag/v5.13.1), 3 weeks ago) - Secure and easy axios integration with Nuxt.js
