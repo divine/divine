@@ -15,12 +15,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [nuxt-community/i18n-module](https://github.com/nuxt-community/i18n-module) ([v6.20.6](https://github.com/nuxt-community/i18n-module/releases/tag/v6.20.6), 1 day ago) - i18n for Nuxt
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v2.6.3](https://github.com/api-platform/api-platform/releases/tag/v2.6.3), 2 days ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
-- [api-platform/core](https://github.com/api-platform/core) ([v2.6.3](https://github.com/api-platform/core/releases/tag/v2.6.3), 2 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [nuxt-community/i18n-module](https://github.com/nuxt-community/i18n-module) ([v6.20.6](https://github.com/nuxt-community/i18n-module/releases/tag/v6.20.6), 2 days ago) - i18n for Nuxt
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v2.6.3](https://github.com/api-platform/api-platform/releases/tag/v2.6.3), 3 days ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
+- [api-platform/core](https://github.com/api-platform/core) ([v2.6.3](https://github.com/api-platform/core/releases/tag/v2.6.3), 3 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [nuxt/content](https://github.com/nuxt/content) ([v1.14.0](https://github.com/nuxt/content/releases/tag/v1.14.0), 1 week ago) - Nuxt Content lets you write in a content/ directory and fetch your Markdown, JSON, YAML, XML and CSV files through a MongoDB like API, acting as a Git-based Headless CMS
 - [jenssegers/laravel-mongodb](https://github.com/jenssegers/laravel-mongodb) ([v3.8.3](https://github.com/jenssegers/laravel-mongodb/releases/tag/v3.8.3), 2 weeks ago) - A MongoDB based Eloquent model and Query builder for Laravel (Moloquent)
-- [nuxt-community/axios-module](https://github.com/nuxt-community/axios-module) ([v5.13.1](https://github.com/nuxt-community/axios-module/releases/tag/v5.13.1), 4 weeks ago) - Secure and easy axios integration with Nuxt.js
+- [nuxt-community/axios-module](https://github.com/nuxt-community/axios-module) ([v5.13.1](https://github.com/nuxt-community/axios-module/releases/tag/v5.13.1), 1 month ago) - Secure and easy axios integration with Nuxt.js
 - [divine/reserved-usernames](https://github.com/divine/reserved-usernames) ([2.0](https://github.com/divine/reserved-usernames/releases/tag/2.0), 2 months ago) - Reserved usernames
 
 #### 💬 Feedback
