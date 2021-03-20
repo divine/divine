@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [jenssegers/laravel-mongodb](https://github.com/jenssegers/laravel-mongodb) - A MongoDB based Eloquent model and Query builder for Laravel (Moloquent) (3 weeks ago)
+- [jenssegers/laravel-mongodb](https://github.com/jenssegers/laravel-mongodb) - A MongoDB based Eloquent model and Query builder for Laravel (Moloquent) (4 weeks ago)
 - [processone/ejabberd](https://github.com/processone/ejabberd) - Robust, Ubiquitous and Massively Scalable Messaging Platform (XMPP, MQTT, SIP Server) (1 month ago)
 - [nuxt/content](https://github.com/nuxt/content) - Nuxt Content lets you write in a content/ directory and fetch your Markdown, JSON, YAML, XML and CSV files through a MongoDB like API, acting as a Git-based Headless CMS (1 month ago)
 - [nuxt-community/axios-module](https://github.com/nuxt-community/axios-module) - Secure and easy axios integration with Nuxt.js (2 months ago)
@@ -11,11 +11,11 @@
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (2 months ago)
 - [nuxt-community/i18n-module](https://github.com/nuxt-community/i18n-module) - i18n for Nuxt (3 months ago)
 - [divine/i18n-static-redirect](https://github.com/divine/i18n-static-redirect) -  (5 months ago)
-- [E-404/xmpp-servers](https://github.com/E-404/xmpp-servers) -  (11 months ago)
+- [E-404/xmpp-servers](https://github.com/E-404/xmpp-servers) -  (1 year ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [nuxt-community/i18n-module](https://github.com/nuxt-community/i18n-module) ([v6.21.1](https://github.com/nuxt-community/i18n-module/releases/tag/v6.21.1), 4 days ago) - i18n for Nuxt
+- [nuxt-community/i18n-module](https://github.com/nuxt-community/i18n-module) ([v6.21.1](https://github.com/nuxt-community/i18n-module/releases/tag/v6.21.1), 5 days ago) - i18n for Nuxt
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v2.6.3](https://github.com/api-platform/api-platform/releases/tag/v2.6.3), 1 week ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [api-platform/core](https://github.com/api-platform/core) ([v2.6.3](https://github.com/api-platform/core/releases/tag/v2.6.3), 1 week ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [nuxt/content](https://github.com/nuxt/content) ([v1.14.0](https://github.com/nuxt/content/releases/tag/v1.14.0), 2 weeks ago) - Nuxt Content lets you write in a content/ directory and fetch your Markdown, JSON, YAML, XML and CSV files through a MongoDB like API, acting as a Git-based Headless CMS
