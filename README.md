@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [divine/open-sauced-goals](https://github.com/divine/open-sauced-goals) -  (today)
 - [jenssegers/laravel-mongodb](https://github.com/jenssegers/laravel-mongodb) - A MongoDB based Eloquent model and Query builder for Laravel (Moloquent) (4 weeks ago)
 - [processone/ejabberd](https://github.com/processone/ejabberd) - Robust, Ubiquitous and Massively Scalable Messaging Platform (XMPP, MQTT, SIP Server) (1 month ago)
 - [nuxt/content](https://github.com/nuxt/content) - Nuxt Content lets you write in a content/ directory and fetch your Markdown, JSON, YAML, XML and CSV files through a MongoDB like API, acting as a Git-based Headless CMS (1 month ago)
@@ -11,7 +12,6 @@
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (2 months ago)
 - [nuxt-community/i18n-module](https://github.com/nuxt-community/i18n-module) - i18n for Nuxt (3 months ago)
 - [divine/i18n-static-redirect](https://github.com/divine/i18n-static-redirect) -  (5 months ago)
-- [E-404/xmpp-servers](https://github.com/E-404/xmpp-servers) -  (1 year ago)
 
 #### 🔭 Latest releases I've contributed to
 
