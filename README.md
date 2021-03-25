@@ -15,7 +15,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [nuxt-community/i18n-module](https://github.com/nuxt-community/i18n-module) ([v6.22.0](https://github.com/nuxt-community/i18n-module/releases/tag/v6.22.0), 1 day ago) - i18n for Nuxt
+- [nuxt-community/i18n-module](https://github.com/nuxt-community/i18n-module) ([v6.22.1](https://github.com/nuxt-community/i18n-module/releases/tag/v6.22.1), today) - i18n for Nuxt
 - [divine/reserved-usernames](https://github.com/divine/reserved-usernames) ([2.2](https://github.com/divine/reserved-usernames/releases/tag/2.2), 1 day ago) - Reserved usernames
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v2.6.3](https://github.com/api-platform/api-platform/releases/tag/v2.6.3), 2 weeks ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [api-platform/core](https://github.com/api-platform/core) ([v2.6.3](https://github.com/api-platform/core/releases/tag/v2.6.3), 2 weeks ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
