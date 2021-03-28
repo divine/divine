@@ -11,7 +11,6 @@
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (2 months ago)
 - [nuxt-community/i18n-module](https://github.com/nuxt-community/i18n-module) - i18n for Nuxt (3 months ago)
 - [divine/i18n-static-redirect](https://github.com/divine/i18n-static-redirect) -  (5 months ago)
-- [E-404/xmpp-servers](https://github.com/E-404/xmpp-servers) -  (1 year ago)
 
 #### 🔭 Latest releases I've contributed to
 
