@@ -18,7 +18,7 @@
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v2.6.4](https://github.com/api-platform/api-platform/releases/tag/v2.6.4), 2 weeks ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [api-platform/core](https://github.com/api-platform/core) ([v2.6.4](https://github.com/api-platform/core/releases/tag/v2.6.4), 2 weeks ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [divine/reserved-usernames](https://github.com/divine/reserved-usernames) ([2.2](https://github.com/divine/reserved-usernames/releases/tag/2.2), 1 month ago) - Reserved usernames
-- [nuxt/content](https://github.com/nuxt/content) ([v1.14.0](https://github.com/nuxt/content/releases/tag/v1.14.0), 1 month ago) - Nuxt Content lets you write in a content/ directory and fetch your Markdown, JSON, YAML, XML and CSV files through a MongoDB like API, acting as a Git-based Headless CMS
+- [nuxt/content](https://github.com/nuxt/content) ([v1.14.0](https://github.com/nuxt/content/releases/tag/v1.14.0), 2 months ago) - Nuxt Content lets you write in a content/ directory and fetch your Markdown, JSON, YAML, XML and CSV files through a MongoDB like API, acting as a Git-based Headless CMS
 - [nuxt-community/axios-module](https://github.com/nuxt-community/axios-module) ([v5.13.1](https://github.com/nuxt-community/axios-module/releases/tag/v5.13.1), 2 months ago) - Secure and easy axios integration with Nuxt.js
 
 #### 💬 Feedback
