@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [nuxt-community/i18n-module](https://github.com/nuxt-community/i18n-module) - i18n for Nuxt (today)
+- [nuxt-community/i18n-module](https://github.com/nuxt-community/i18n-module) - i18n for Nuxt (1 day ago)
 - [jenssegers/laravel-mongodb](https://github.com/jenssegers/laravel-mongodb) - A MongoDB based Eloquent model and Query builder for Laravel (Moloquent) (1 week ago)
 - [divine/reserved-usernames](https://github.com/divine/reserved-usernames) - Reserved usernames (1 month ago)
 - [processone/ejabberd](https://github.com/processone/ejabberd) - Robust, Ubiquitous and Massively Scalable Messaging Platform (XMPP, MQTT, SIP Server) (3 months ago)
@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [nuxt-community/i18n-module](https://github.com/nuxt-community/i18n-module) ([v6.27.0](https://github.com/nuxt-community/i18n-module/releases/tag/v6.27.0), 5 days ago) - i18n for Nuxt
+- [nuxt-community/i18n-module](https://github.com/nuxt-community/i18n-module) ([v6.27.0](https://github.com/nuxt-community/i18n-module/releases/tag/v6.27.0), 6 days ago) - i18n for Nuxt
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v2.6.4](https://github.com/api-platform/api-platform/releases/tag/v2.6.4), 1 month ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [api-platform/core](https://github.com/api-platform/core) ([v2.6.4](https://github.com/api-platform/core/releases/tag/v2.6.4), 1 month ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [divine/reserved-usernames](https://github.com/divine/reserved-usernames) ([2.2](https://github.com/divine/reserved-usernames/releases/tag/2.2), 1 month ago) - Reserved usernames
