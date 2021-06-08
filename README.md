@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [nuxt-community/axios-module](https://github.com/nuxt-community/axios-module) ([v5.13.6](https://github.com/nuxt-community/axios-module/releases/tag/v5.13.6), 5 days ago) - Secure and easy axios integration with Nuxt.js
+- [nuxt-community/axios-module](https://github.com/nuxt-community/axios-module) ([v5.13.6](https://github.com/nuxt-community/axios-module/releases/tag/v5.13.6), 6 days ago) - Secure and easy axios integration with Nuxt.js
 - [jenssegers/laravel-mongodb](https://github.com/jenssegers/laravel-mongodb) ([3.8.4](https://github.com/jenssegers/laravel-mongodb/releases/tag/3.8.4), 1 week ago) - A MongoDB based Eloquent model and Query builder for Laravel (Moloquent)
 - [nuxt-community/i18n-module](https://github.com/nuxt-community/i18n-module) ([v6.27.0](https://github.com/nuxt-community/i18n-module/releases/tag/v6.27.0), 1 month ago) - i18n for Nuxt
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v2.6.4](https://github.com/api-platform/api-platform/releases/tag/v2.6.4), 1 month ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
