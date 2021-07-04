@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [unjs/ufo](https://github.com/unjs/ufo) - URL utils for humans (3 days ago)
+- [unjs/ufo](https://github.com/unjs/ufo) - URL utils for humans (4 days ago)
 - [jenssegers/laravel-mongodb](https://github.com/jenssegers/laravel-mongodb) - A MongoDB based Eloquent model and Query builder for Laravel (Moloquent) (1 month ago)
 - [nuxt-community/i18n-module](https://github.com/nuxt-community/i18n-module) - i18n for Nuxt (1 month ago)
 - [divine/reserved-usernames](https://github.com/divine/reserved-usernames) - Reserved usernames (3 months ago)
