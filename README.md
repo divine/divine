@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [unjs/destr](https://github.com/unjs/destr) - Faster, secure and convenient alternative for JSON.parse (today)
-- [nuxt-community/i18n-module](https://github.com/nuxt-community/i18n-module) - i18n for Nuxt (2 weeks ago)
+- [nuxt-community/i18n-module](https://github.com/nuxt-community/i18n-module) - i18n for Nuxt (today)
 - [unjs/ufo](https://github.com/unjs/ufo) - URL utils for humans (3 weeks ago)
 - [jenssegers/laravel-mongodb](https://github.com/jenssegers/laravel-mongodb) - A MongoDB based Eloquent model and Query builder for Laravel (Moloquent) (1 month ago)
 - [divine/reserved-usernames](https://github.com/divine/reserved-usernames) - Reserved usernames (4 months ago)
