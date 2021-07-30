@@ -4,7 +4,7 @@
 
 - [unjs/destr](https://github.com/unjs/destr) - Faster, secure and convenient alternative for JSON.parse (1 week ago)
 - [nuxt-community/i18n-module](https://github.com/nuxt-community/i18n-module) - i18n for Nuxt (1 week ago)
-- [unjs/ufo](https://github.com/unjs/ufo) - URL utils for humans (4 weeks ago)
+- [unjs/ufo](https://github.com/unjs/ufo) - URL utils for humans (1 month ago)
 - [jenssegers/laravel-mongodb](https://github.com/jenssegers/laravel-mongodb) - A MongoDB based Eloquent model and Query builder for Laravel (Moloquent) (2 months ago)
 - [divine/reserved-usernames](https://github.com/divine/reserved-usernames) - Reserved usernames (4 months ago)
 - [processone/ejabberd](https://github.com/processone/ejabberd) - Robust, Ubiquitous and Massively Scalable Messaging Platform (XMPP, MQTT, SIP Server) (5 months ago)
@@ -21,7 +21,7 @@
 - [nuxt-community/axios-module](https://github.com/nuxt-community/axios-module) ([v5.13.6](https://github.com/nuxt-community/axios-module/releases/tag/v5.13.6), 1 month ago) - Secure and easy axios integration with Nuxt.js
 - [jenssegers/laravel-mongodb](https://github.com/jenssegers/laravel-mongodb) ([3.8.4](https://github.com/jenssegers/laravel-mongodb/releases/tag/3.8.4), 2 months ago) - A MongoDB based Eloquent model and Query builder for Laravel (Moloquent)
 - [divine/reserved-usernames](https://github.com/divine/reserved-usernames) ([2.2](https://github.com/divine/reserved-usernames/releases/tag/2.2), 4 months ago) - Reserved usernames
-- [nuxt/content](https://github.com/nuxt/content) ([v1.14.0](https://github.com/nuxt/content/releases/tag/v1.14.0), 4 months ago) - Nuxt Content lets you write in a content/ directory and fetch your Markdown, JSON, YAML, XML and CSV files through a MongoDB like API, acting as a Git-based Headless CMS
+- [nuxt/content](https://github.com/nuxt/content) ([v1.14.0](https://github.com/nuxt/content/releases/tag/v1.14.0), 5 months ago) - Nuxt Content lets you write in a content/ directory and fetch your Markdown, JSON, YAML, XML and CSV files through a MongoDB like API, acting as a Git-based Headless CMS
 - [unjs/destr](https://github.com/unjs/destr) ([v1.0.1](https://github.com/unjs/destr/releases/tag/v1.0.1), 8 months ago) - Faster, secure and convenient alternative for JSON.parse
 
 #### 💬 Feedback
