@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [nuxt-community/i18n-module](https://github.com/nuxt-community/i18n-module) - i18n for Nuxt (3 weeks ago)
-- [unjs/destr](https://github.com/unjs/destr) - Faster, secure and convenient alternative for JSON.parse (3 weeks ago)
+- [unjs/destr](https://github.com/unjs/destr) - Faster, secure and convenient alternative for JSON.parse (4 weeks ago)
 - [unjs/ufo](https://github.com/unjs/ufo) - URL utils for humans (1 month ago)
 - [jenssegers/laravel-mongodb](https://github.com/jenssegers/laravel-mongodb) - A MongoDB based Eloquent model and Query builder for Laravel (Moloquent) (2 months ago)
 - [divine/reserved-usernames](https://github.com/divine/reserved-usernames) - Reserved usernames (4 months ago)
@@ -15,7 +15,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [nuxt-community/i18n-module](https://github.com/nuxt-community/i18n-module) ([v7.0.2](https://github.com/nuxt-community/i18n-module/releases/tag/v7.0.2), 6 days ago) - i18n for Nuxt
+- [nuxt-community/i18n-module](https://github.com/nuxt-community/i18n-module) ([v7.0.2](https://github.com/nuxt-community/i18n-module/releases/tag/v7.0.2), 1 week ago) - i18n for Nuxt
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v2.6.5](https://github.com/api-platform/api-platform/releases/tag/v2.6.5), 2 months ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [api-platform/core](https://github.com/api-platform/core) ([v2.6.5](https://github.com/api-platform/core/releases/tag/v2.6.5), 2 months ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [nuxt-community/axios-module](https://github.com/nuxt-community/axios-module) ([v5.13.6](https://github.com/nuxt-community/axios-module/releases/tag/v5.13.6), 2 months ago) - Secure and easy axios integration with Nuxt.js
