@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [divine/captcha](https://github.com/divine/captcha) -  (today)
 - [nuxt-community/i18n-module](https://github.com/nuxt-community/i18n-module) - i18n for Nuxt (3 weeks ago)
 - [unjs/destr](https://github.com/unjs/destr) - Faster, secure and convenient alternative for JSON.parse (4 weeks ago)
 - [unjs/ufo](https://github.com/unjs/ufo) - URL utils for humans (1 month ago)
@@ -11,10 +12,10 @@
 - [nuxt/content](https://github.com/nuxt/content) - Nuxt Content lets you write in a content/ directory and fetch your Markdown, JSON, YAML, XML and CSV files through a MongoDB like API, acting as a Git-based Headless CMS (6 months ago)
 - [nuxt-community/axios-module](https://github.com/nuxt-community/axios-module) - Secure and easy axios integration with Nuxt.js (7 months ago)
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (7 months ago)
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (7 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [divine/captcha](https://github.com/divine/captcha) ([v1.2.0](https://github.com/divine/captcha/releases/tag/v1.2.0), today) - 
 - [nuxt-community/i18n-module](https://github.com/nuxt-community/i18n-module) ([v7.0.2](https://github.com/nuxt-community/i18n-module/releases/tag/v7.0.2), 1 week ago) - i18n for Nuxt
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v2.6.5](https://github.com/api-platform/api-platform/releases/tag/v2.6.5), 2 months ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [api-platform/core](https://github.com/api-platform/core) ([v2.6.5](https://github.com/api-platform/core/releases/tag/v2.6.5), 2 months ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
