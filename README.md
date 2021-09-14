@@ -15,8 +15,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [nuxt-community/i18n-module](https://github.com/nuxt-community/i18n-module) ([v7.0.3](https://github.com/nuxt-community/i18n-module/releases/tag/v7.0.3), 1 week ago) - i18n for Nuxt
-- [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.12.2](https://github.com/dunglas/mercure/releases/tag/v0.12.2), 2 weeks ago) - Server-sent live updates: protocol and reference implementation
+- [nuxt-community/i18n-module](https://github.com/nuxt-community/i18n-module) ([v7.0.3](https://github.com/nuxt-community/i18n-module/releases/tag/v7.0.3), 2 weeks ago) - i18n for Nuxt
+- [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.12.2](https://github.com/dunglas/mercure/releases/tag/v0.12.2), 3 weeks ago) - Server-sent live updates: protocol and reference implementation
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v2.6.5](https://github.com/api-platform/api-platform/releases/tag/v2.6.5), 3 months ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [api-platform/core](https://github.com/api-platform/core) ([v2.6.5](https://github.com/api-platform/core/releases/tag/v2.6.5), 3 months ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [nuxt-community/axios-module](https://github.com/nuxt-community/axios-module) ([v5.13.6](https://github.com/nuxt-community/axios-module/releases/tag/v5.13.6), 3 months ago) - Secure and easy axios integration with Nuxt.js
