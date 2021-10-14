@@ -15,9 +15,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.13.0](https://github.com/dunglas/mercure/releases/tag/v0.13.0), 2 days ago) - Server-sent live updates: protocol and reference implementation
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v2.6.6](https://github.com/api-platform/api-platform/releases/tag/v2.6.6), 1 week ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
-- [api-platform/core](https://github.com/api-platform/core) ([v2.6.6](https://github.com/api-platform/core/releases/tag/v2.6.6), 1 week ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.13.0](https://github.com/dunglas/mercure/releases/tag/v0.13.0), 3 days ago) - Server-sent live updates: protocol and reference implementation
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v2.6.6](https://github.com/api-platform/api-platform/releases/tag/v2.6.6), 2 weeks ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
+- [api-platform/core](https://github.com/api-platform/core) ([v2.6.6](https://github.com/api-platform/core/releases/tag/v2.6.6), 2 weeks ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [nuxt-community/i18n-module](https://github.com/nuxt-community/i18n-module) ([v7.0.3](https://github.com/nuxt-community/i18n-module/releases/tag/v7.0.3), 1 month ago) - i18n for Nuxt
 - [nuxt-community/axios-module](https://github.com/nuxt-community/axios-module) ([v5.13.6](https://github.com/nuxt-community/axios-module/releases/tag/v5.13.6), 4 months ago) - Secure and easy axios integration with Nuxt.js
 - [jenssegers/laravel-mongodb](https://github.com/jenssegers/laravel-mongodb) ([3.8.4](https://github.com/jenssegers/laravel-mongodb/releases/tag/3.8.4), 4 months ago) - A MongoDB based Eloquent model and Query builder for Laravel (Moloquent)
