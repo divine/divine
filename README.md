@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [nuxt/modules](https://github.com/nuxt/modules) - Discover our list of modules to supercharge your Nuxt project (1 week ago)
+- [nuxt/modules](https://github.com/nuxt/modules) - Discover our list of modules to supercharge your Nuxt project (2 weeks ago)
 - [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (2 months ago)
 - [nuxt-community/awesome-nuxt](https://github.com/nuxt-community/awesome-nuxt) - A curated list of awesome things related to Nuxt.js (2 months ago)
 - [nuxt-community/i18n-module](https://github.com/nuxt-community/i18n-module) - i18n for Nuxt (3 months ago)
