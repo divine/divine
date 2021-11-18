@@ -11,12 +11,12 @@
 - [jenssegers/laravel-mongodb](https://github.com/jenssegers/laravel-mongodb) - A MongoDB based Eloquent model and Query builder for Laravel (Moloquent) (5 months ago)
 - [divine/reserved-usernames](https://github.com/divine/reserved-usernames) - Reserved usernames (7 months ago)
 - [processone/ejabberd](https://github.com/processone/ejabberd) - Robust, Ubiquitous and Massively Scalable Messaging Platform (XMPP, MQTT, SIP Server) (9 months ago)
-- [nuxt/content](https://github.com/nuxt/content) - Nuxt Content lets you write in a content/ directory and fetch your Markdown, JSON, YAML, XML and CSV files through a MongoDB like API, acting as a Git-based Headless CMS (9 months ago)
+- [nuxt/content](https://github.com/nuxt/content) - Nuxt Content lets you write in a content/ directory and fetch your Markdown, JSON, YAML, XML and CSV files through a MongoDB like API, acting as a Git-based Headless CMS (10 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [nuxt/content](https://github.com/nuxt/content) ([@nuxt/content@1.15.1](https://github.com/nuxt/content/releases/tag/%40nuxt%2Fcontent%401.15.1), today) - Nuxt Content lets you write in a content/ directory and fetch your Markdown, JSON, YAML, XML and CSV files through a MongoDB like API, acting as a Git-based Headless CMS
-- [nuxt-community/i18n-module](https://github.com/nuxt-community/i18n-module) ([v7.2.0](https://github.com/nuxt-community/i18n-module/releases/tag/v7.2.0), 1 week ago) - i18n for Nuxt
+- [nuxt/content](https://github.com/nuxt/content) ([@nuxt/content@1.15.1](https://github.com/nuxt/content/releases/tag/%40nuxt%2Fcontent%401.15.1), 1 day ago) - Nuxt Content lets you write in a content/ directory and fetch your Markdown, JSON, YAML, XML and CSV files through a MongoDB like API, acting as a Git-based Headless CMS
+- [nuxt-community/i18n-module](https://github.com/nuxt-community/i18n-module) ([v7.2.0](https://github.com/nuxt-community/i18n-module/releases/tag/v7.2.0), 2 weeks ago) - i18n for Nuxt
 - [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.13.0](https://github.com/dunglas/mercure/releases/tag/v0.13.0), 1 month ago) - Server-sent live updates: protocol and reference implementation
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v2.6.6](https://github.com/api-platform/api-platform/releases/tag/v2.6.6), 1 month ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [api-platform/core](https://github.com/api-platform/core) ([v2.6.6](https://github.com/api-platform/core/releases/tag/v2.6.6), 1 month ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
