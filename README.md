@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [Furry/2captcha](https://github.com/Furry/2captcha) - A wrapper around the 2captcha api (today)
 - [nuxt/modules](https://github.com/nuxt/modules) - Discover our list of modules to supercharge your Nuxt project (1 month ago)
 - [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (3 months ago)
 - [nuxt-community/awesome-nuxt](https://github.com/nuxt-community/awesome-nuxt) - A curated list of awesome things related to Nuxt.js (3 months ago)
@@ -11,7 +12,6 @@
 - [jenssegers/laravel-mongodb](https://github.com/jenssegers/laravel-mongodb) - A MongoDB based Eloquent model and Query builder for Laravel (Moloquent) (6 months ago)
 - [divine/reserved-usernames](https://github.com/divine/reserved-usernames) - Reserved usernames (8 months ago)
 - [processone/ejabberd](https://github.com/processone/ejabberd) - Robust, Ubiquitous and Massively Scalable Messaging Platform (XMPP, MQTT, SIP Server) (10 months ago)
-- [nuxt/content](https://github.com/nuxt/content) - Nuxt Content lets you write in a content/ directory and fetch your Markdown, JSON, YAML, XML and CSV files through a MongoDB like API, acting as a Git-based Headless CMS (10 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
