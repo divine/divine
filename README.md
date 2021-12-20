@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [ScreamZ/anti-captcha](https://github.com/ScreamZ/anti-captcha) - A modern JS/TS wrapper around anti-captcha API (Captcha Breaker Software) (1 day ago)
 - [Furry/2captcha](https://github.com/Furry/2captcha) - A wrapper around the 2captcha api (1 week ago)
 - [nuxt/modules](https://github.com/nuxt/modules) - Discover our list of modules to supercharge your Nuxt project (1 month ago)
 - [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (3 months ago)
@@ -11,7 +12,6 @@
 - [unjs/ufo](https://github.com/unjs/ufo) - URL utils for humans (5 months ago)
 - [jenssegers/laravel-mongodb](https://github.com/jenssegers/laravel-mongodb) - A MongoDB based Eloquent model and Query builder for Laravel (Moloquent) (6 months ago)
 - [divine/reserved-usernames](https://github.com/divine/reserved-usernames) - Reserved usernames (9 months ago)
-- [processone/ejabberd](https://github.com/processone/ejabberd) - Robust, Ubiquitous and Massively Scalable Messaging Platform (XMPP, MQTT, SIP Server) (10 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -24,6 +24,7 @@
 - [jenssegers/laravel-mongodb](https://github.com/jenssegers/laravel-mongodb) ([3.8.4](https://github.com/jenssegers/laravel-mongodb/releases/tag/3.8.4), 6 months ago) - A MongoDB based Eloquent model and Query builder for Laravel (Moloquent)
 - [divine/reserved-usernames](https://github.com/divine/reserved-usernames) ([2.2](https://github.com/divine/reserved-usernames/releases/tag/2.2), 9 months ago) - Reserved usernames
 - [unjs/destr](https://github.com/unjs/destr) ([v1.0.1](https://github.com/unjs/destr/releases/tag/v1.0.1), 1 year ago) - Faster, secure and convenient alternative for JSON.parse
+- [ScreamZ/anti-captcha](https://github.com/ScreamZ/anti-captcha) ([v1.1.0](https://github.com/ScreamZ/anti-captcha/releases/tag/v1.1.0), 2 years ago) - A modern JS/TS wrapper around anti-captcha API (Captcha Breaker Software)
 
 #### 💬 Feedback
 You never know how strong you are, until being strong is the only choice you have.
