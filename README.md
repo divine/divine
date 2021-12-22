@@ -2,12 +2,12 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ScreamZ/anti-captcha](https://github.com/ScreamZ/anti-captcha) - A modern JS/TS wrapper around anti-captcha API (Captcha Breaker Software) (2 days ago)
+- [ScreamZ/anti-captcha](https://github.com/ScreamZ/anti-captcha) - A modern JS/TS wrapper around anti-captcha API (Captcha Breaker Software) (3 days ago)
 - [Furry/2captcha](https://github.com/Furry/2captcha) - A wrapper around the 2captcha api (1 week ago)
 - [nuxt/modules](https://github.com/nuxt/modules) - Discover our list of modules to supercharge your Nuxt project (1 month ago)
 - [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (3 months ago)
 - [nuxt-community/awesome-nuxt](https://github.com/nuxt-community/awesome-nuxt) - A curated list of awesome things related to Nuxt.js (3 months ago)
-- [nuxt-community/i18n-module](https://github.com/nuxt-community/i18n-module) - i18n for Nuxt (4 months ago)
+- [nuxt-community/i18n-module](https://github.com/nuxt-community/i18n-module) - i18n for Nuxt (5 months ago)
 - [unjs/destr](https://github.com/unjs/destr) - Faster, secure and convenient alternative for JSON.parse (5 months ago)
 - [unjs/ufo](https://github.com/unjs/ufo) - URL utils for humans (5 months ago)
 - [jenssegers/laravel-mongodb](https://github.com/jenssegers/laravel-mongodb) - A MongoDB based Eloquent model and Query builder for Laravel (Moloquent) (6 months ago)
