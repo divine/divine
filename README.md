@@ -15,7 +15,6 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [nuxt/content](https://github.com/nuxt/content) ([@nuxt/content@1.15.1](https://github.com/nuxt/content/releases/tag/%40nuxt%2Fcontent%401.15.1), 2 months ago) - Nuxt Content lets you write in a content/ directory and fetch your Markdown, JSON, YAML, XML and CSV files through a MongoDB like API, acting as a Git-based Headless CMS
 - [nuxt-community/i18n-module](https://github.com/nuxt-community/i18n-module) ([v7.2.0](https://github.com/nuxt-community/i18n-module/releases/tag/v7.2.0), 2 months ago) - i18n for Nuxt
 - [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.13.0](https://github.com/dunglas/mercure/releases/tag/v0.13.0), 3 months ago) - Server-sent live updates: protocol and reference implementation
 - [jenssegers/laravel-mongodb](https://github.com/jenssegers/laravel-mongodb) ([3.8.4](https://github.com/jenssegers/laravel-mongodb/releases/tag/3.8.4), 8 months ago) - A MongoDB based Eloquent model and Query builder for Laravel (Moloquent)
