@@ -11,7 +11,7 @@
 - [nuxt-community/awesome-nuxt](https://github.com/nuxt-community/awesome-nuxt) - A curated list of awesome things related to Nuxt.js (5 months ago)
 - [nuxt-community/i18n-module](https://github.com/nuxt-community/i18n-module) - i18n for Nuxt (7 months ago)
 - [unjs/destr](https://github.com/unjs/destr) - Faster, secure and convenient alternative for JSON.parse (7 months ago)
-- [unjs/ufo](https://github.com/unjs/ufo) - URL utils for humans (7 months ago)
+- [unjs/ufo](https://github.com/unjs/ufo) - URL utils for humans (8 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
