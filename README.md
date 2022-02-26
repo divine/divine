@@ -8,7 +8,7 @@
 - [ScreamZ/anti-captcha](https://github.com/ScreamZ/anti-captcha) - A modern JS/TS wrapper around anti-captcha API (Captcha Breaker Software) (2 months ago)
 - [Furry/2captcha](https://github.com/Furry/2captcha) - A wrapper around the 2captcha api (2 months ago)
 - [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (5 months ago)
-- [nuxt-community/awesome-nuxt](https://github.com/nuxt-community/awesome-nuxt) - A curated list of awesome things related to Nuxt.js (5 months ago)
+- [nuxt-community/awesome-nuxt](https://github.com/nuxt-community/awesome-nuxt) - A curated list of awesome things related to Nuxt.js (6 months ago)
 - [nuxt-community/i18n-module](https://github.com/nuxt-community/i18n-module) - i18n for Nuxt (7 months ago)
 - [unjs/destr](https://github.com/unjs/destr) - Faster, secure and convenient alternative for JSON.parse (7 months ago)
 - [unjs/ufo](https://github.com/unjs/ufo) - URL utils for humans (8 months ago)
