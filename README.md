@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [jenssegers/laravel-mongodb](https://github.com/jenssegers/laravel-mongodb) - A MongoDB based Eloquent model and Query builder for Laravel (Moloquent) (2 weeks ago)
-- [nuxt/modules](https://github.com/nuxt/modules) - Discover our list of modules to supercharge your Nuxt project (3 weeks ago)
+- [nuxt/modules](https://github.com/nuxt/modules) - Discover our list of modules to supercharge your Nuxt project (4 weeks ago)
 - [nuxtlabs/vue-telescope-analyzer](https://github.com/nuxtlabs/vue-telescope-analyzer) - Detect Vue technologies running on a website ✨ (1 month ago)
 - [ScreamZ/anti-captcha](https://github.com/ScreamZ/anti-captcha) - A modern JS/TS wrapper around anti-captcha API (Captcha Breaker Software) (2 months ago)
 - [Furry/2captcha](https://github.com/Furry/2captcha) - A wrapper around the 2captcha api (2 months ago)
