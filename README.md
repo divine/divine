@@ -15,7 +15,6 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [jenssegers/laravel-mongodb](https://github.com/jenssegers/laravel-mongodb) ([v3.9.0](https://github.com/jenssegers/laravel-mongodb/releases/tag/v3.9.0), 2 weeks ago) - A MongoDB based Eloquent model and Query builder for Laravel (Moloquent)
 - [nuxtlabs/vue-telescope-analyzer](https://github.com/nuxtlabs/vue-telescope-analyzer) ([v0.9.6](https://github.com/nuxtlabs/vue-telescope-analyzer/releases/tag/v0.9.6), 1 month ago) - Detect Vue technologies running on a website ✨
 - [nuxt-community/i18n-module](https://github.com/nuxt-community/i18n-module) ([v7.2.0](https://github.com/nuxt-community/i18n-module/releases/tag/v7.2.0), 4 months ago) - i18n for Nuxt
 - [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.13.0](https://github.com/dunglas/mercure/releases/tag/v0.13.0), 4 months ago) - Server-sent live updates: protocol and reference implementation
