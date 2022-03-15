@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [unjs/ufo](https://github.com/unjs/ufo) - URL utils for humans (today)
 - [haraka/haraka-plugin-limit](https://github.com/haraka/haraka-plugin-limit) - Enforce many types of limits on a Haraka mail server. (6 days ago)
 - [jenssegers/laravel-mongodb](https://github.com/jenssegers/laravel-mongodb) - A MongoDB based Eloquent model and Query builder for Laravel (Moloquent) (1 week ago)
 - [nuxt/modules](https://github.com/nuxt/modules) - Discover our list of modules to supercharge your Nuxt project (1 month ago)
@@ -11,7 +12,6 @@
 - [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (6 months ago)
 - [nuxt-community/awesome-nuxt](https://github.com/nuxt-community/awesome-nuxt) - A curated list of awesome things related to Nuxt.js (6 months ago)
 - [nuxt-community/i18n-module](https://github.com/nuxt-community/i18n-module) - i18n for Nuxt (7 months ago)
-- [unjs/destr](https://github.com/unjs/destr) - Faster, secure and convenient alternative for JSON.parse (7 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
