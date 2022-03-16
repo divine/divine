@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [nuxt/framework](https://github.com/nuxt/framework) - The Hybrid Vue(3) Framework. (today)
 - [unjs/ufo](https://github.com/unjs/ufo) - URL utils for humans (1 day ago)
 - [haraka/haraka-plugin-limit](https://github.com/haraka/haraka-plugin-limit) - Enforce many types of limits on a Haraka mail server. (1 week ago)
 - [jenssegers/laravel-mongodb](https://github.com/jenssegers/laravel-mongodb) - A MongoDB based Eloquent model and Query builder for Laravel (Moloquent) (1 week ago)
@@ -11,7 +12,6 @@
 - [Furry/2captcha](https://github.com/Furry/2captcha) - A wrapper around the 2captcha api (3 months ago)
 - [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (6 months ago)
 - [nuxt-community/awesome-nuxt](https://github.com/nuxt-community/awesome-nuxt) - A curated list of awesome things related to Nuxt.js (6 months ago)
-- [nuxt-community/i18n-module](https://github.com/nuxt-community/i18n-module) - i18n for Nuxt (7 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
