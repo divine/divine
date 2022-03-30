@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [nuxt/framework](https://github.com/nuxt/framework) - The Hybrid Vue(3) Framework. (1 week ago)
-- [unjs/ufo](https://github.com/unjs/ufo) - URL utils for humans (1 week ago)
-- [haraka/haraka-plugin-limit](https://github.com/haraka/haraka-plugin-limit) - Enforce many types of limits on a Haraka mail server. (2 weeks ago)
+- [nuxt/framework](https://github.com/nuxt/framework) - The Hybrid Vue(3) Framework. (2 weeks ago)
+- [unjs/ufo](https://github.com/unjs/ufo) - URL utils for humans (2 weeks ago)
+- [haraka/haraka-plugin-limit](https://github.com/haraka/haraka-plugin-limit) - Enforce many types of limits on a Haraka mail server. (3 weeks ago)
 - [jenssegers/laravel-mongodb](https://github.com/jenssegers/laravel-mongodb) - A MongoDB based Eloquent model and Query builder for Laravel (Moloquent) (3 weeks ago)
 - [nuxt/modules](https://github.com/nuxt/modules) - Discover our list of modules to supercharge your Nuxt project (1 month ago)
 - [nuxtlabs/vue-telescope-analyzer](https://github.com/nuxtlabs/vue-telescope-analyzer) - Detect Vue technologies running on a website ✨ (2 months ago)
