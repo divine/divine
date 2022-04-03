@@ -15,7 +15,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [nuxt-community/i18n-module](https://github.com/nuxt-community/i18n-module) ([v7.2.1](https://github.com/nuxt-community/i18n-module/releases/tag/v7.2.1), 1 day ago) - i18n for Nuxt
+- [nuxt-community/i18n-module](https://github.com/nuxt-community/i18n-module) ([v7.2.1](https://github.com/nuxt-community/i18n-module/releases/tag/v7.2.1), 2 days ago) - i18n for Nuxt
 - [nuxtlabs/vue-telescope-analyzer](https://github.com/nuxtlabs/vue-telescope-analyzer) ([v0.9.6](https://github.com/nuxtlabs/vue-telescope-analyzer/releases/tag/v0.9.6), 2 months ago) - Detect Vue technologies running on a website ✨
 - [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.13.0](https://github.com/dunglas/mercure/releases/tag/v0.13.0), 5 months ago) - Server-sent live updates: protocol and reference implementation
 - [unjs/destr](https://github.com/unjs/destr) ([v1.0.1](https://github.com/unjs/destr/releases/tag/v1.0.1), 1 year ago) - Faster, secure and convenient alternative for JSON.parse
