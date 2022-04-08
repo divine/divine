@@ -15,7 +15,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [nuxtlabs/vue-telescope-analyzer](https://github.com/nuxtlabs/vue-telescope-analyzer) ([v0.9.8](https://github.com/nuxtlabs/vue-telescope-analyzer/releases/tag/v0.9.8), today) - Detect Vue technologies running on a website ✨
+- [nuxtlabs/vue-telescope-analyzer](https://github.com/nuxtlabs/vue-telescope-analyzer) ([v0.9.10](https://github.com/nuxtlabs/vue-telescope-analyzer/releases/tag/v0.9.10), today) - Detect Vue technologies running on a website ✨
 - [nuxt-community/i18n-module](https://github.com/nuxt-community/i18n-module) ([v7.2.1](https://github.com/nuxt-community/i18n-module/releases/tag/v7.2.1), 1 week ago) - i18n for Nuxt
 - [api-platform/core](https://github.com/api-platform/core) ([v2.6.8](https://github.com/api-platform/core/releases/tag/v2.6.8), 2 months ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.13.0](https://github.com/dunglas/mercure/releases/tag/v0.13.0), 5 months ago) - Server-sent live updates: protocol and reference implementation
