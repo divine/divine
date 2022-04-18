@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [divine/app-redirect](https://github.com/divine/app-redirect) -  (today)
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (1 week ago)
 - [nuxt/framework](https://github.com/nuxt/framework) - The Hybrid Vue(3) Framework. (1 month ago)
 - [unjs/ufo](https://github.com/unjs/ufo) - URL utils for humans (1 month ago)
@@ -11,7 +12,6 @@
 - [nuxtlabs/vue-telescope-analyzer](https://github.com/nuxtlabs/vue-telescope-analyzer) - Detect Vue technologies running on a website ✨ (2 months ago)
 - [ScreamZ/anti-captcha](https://github.com/ScreamZ/anti-captcha) - A modern JS/TS wrapper around anti-captcha API (Captcha Breaker Software) (4 months ago)
 - [Furry/2captcha](https://github.com/Furry/2captcha) - A wrapper around the 2captcha api (4 months ago)
-- [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (7 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
