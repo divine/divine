@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [divine/app-redirect](https://github.com/divine/app-redirect) -  (today)
+- [divine/app-redirect](https://github.com/divine/app-redirect) -  (1 day ago)
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (1 week ago)
 - [unjs/ufo](https://github.com/unjs/ufo) - URL utils for humans (1 month ago)
 - [nuxt/framework](https://github.com/nuxt/framework) - The Hybrid Vue(3) Framework. (1 month ago)
