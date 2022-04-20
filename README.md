@@ -15,6 +15,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [nuxt/framework](https://github.com/nuxt/framework) ([v3.0.0-rc.1](https://github.com/nuxt/framework/releases/tag/v3.0.0-rc.1), today) - The Hybrid Vue(3) Framework.
 - [nuxtlabs/vue-telescope-analyzer](https://github.com/nuxtlabs/vue-telescope-analyzer) ([v0.9.10](https://github.com/nuxtlabs/vue-telescope-analyzer/releases/tag/v0.9.10), 1 week ago) - Detect Vue technologies running on a website ✨
 - [nuxt-community/i18n-module](https://github.com/nuxt-community/i18n-module) ([v7.2.1](https://github.com/nuxt-community/i18n-module/releases/tag/v7.2.1), 2 weeks ago) - i18n for Nuxt
 - [api-platform/core](https://github.com/api-platform/core) ([v2.6.8](https://github.com/api-platform/core/releases/tag/v2.6.8), 3 months ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
