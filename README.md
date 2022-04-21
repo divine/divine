@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [divine/app-redirect](https://github.com/divine/app-redirect) -  (2 days ago)
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (1 week ago)
+- [divine/app-redirect](https://github.com/divine/app-redirect) -  (3 days ago)
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (2 weeks ago)
 - [unjs/ufo](https://github.com/unjs/ufo) - URL utils for humans (1 month ago)
 - [nuxt/framework](https://github.com/nuxt/framework) - The Hybrid Vue(3) Framework. (1 month ago)
 - [haraka/haraka-plugin-limit](https://github.com/haraka/haraka-plugin-limit) - Enforce many types of limits on a Haraka mail server. (1 month ago)
@@ -15,7 +15,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [nuxt/framework](https://github.com/nuxt/framework) ([v3.0.0-rc.1](https://github.com/nuxt/framework/releases/tag/v3.0.0-rc.1), today) - The Hybrid Vue(3) Framework.
+- [nuxt/framework](https://github.com/nuxt/framework) ([v3.0.0-rc.1](https://github.com/nuxt/framework/releases/tag/v3.0.0-rc.1), 1 day ago) - The Hybrid Vue(3) Framework.
 - [nuxtlabs/vue-telescope-analyzer](https://github.com/nuxtlabs/vue-telescope-analyzer) ([v0.9.10](https://github.com/nuxtlabs/vue-telescope-analyzer/releases/tag/v0.9.10), 1 week ago) - Detect Vue technologies running on a website ✨
 - [nuxt-community/i18n-module](https://github.com/nuxt-community/i18n-module) ([v7.2.1](https://github.com/nuxt-community/i18n-module/releases/tag/v7.2.1), 2 weeks ago) - i18n for Nuxt
 - [api-platform/core](https://github.com/api-platform/core) ([v2.6.8](https://github.com/api-platform/core/releases/tag/v2.6.8), 3 months ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
