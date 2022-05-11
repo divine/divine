@@ -11,14 +11,14 @@
 - [nuxt/modules](https://github.com/nuxt/modules) - Discover our list of modules to supercharge your Nuxt project (3 months ago)
 - [nuxtlabs/vue-telescope-analyzer](https://github.com/nuxtlabs/vue-telescope-analyzer) - Detect Vue technologies running on a website ✨ (3 months ago)
 - [ScreamZ/anti-captcha](https://github.com/ScreamZ/anti-captcha) - A modern JS/TS wrapper around anti-captcha API (Captcha Breaker Software) (4 months ago)
-- [Furry/2captcha](https://github.com/Furry/2captcha) - A wrapper around the 2captcha api (4 months ago)
+- [Furry/2captcha](https://github.com/Furry/2captcha) - A wrapper around the 2captcha api (5 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [nuxt/framework](https://github.com/nuxt/framework) ([v3.0.0-rc.3](https://github.com/nuxt/framework/releases/tag/v3.0.0-rc.3), today) - The Hybrid Vue(3) Framework.
-- [nuxtlabs/vue-telescope-analyzer](https://github.com/nuxtlabs/vue-telescope-analyzer) ([v0.9.12](https://github.com/nuxtlabs/vue-telescope-analyzer/releases/tag/v0.9.12), 6 days ago) - Detect Vue technologies running on a website ✨
+- [nuxt/framework](https://github.com/nuxt/framework) ([v3.0.0-rc.3](https://github.com/nuxt/framework/releases/tag/v3.0.0-rc.3), 1 day ago) - The Hybrid Vue(3) Framework.
+- [nuxtlabs/vue-telescope-analyzer](https://github.com/nuxtlabs/vue-telescope-analyzer) ([v0.9.12](https://github.com/nuxtlabs/vue-telescope-analyzer/releases/tag/v0.9.12), 1 week ago) - Detect Vue technologies running on a website ✨
 - [nuxt-community/i18n-module](https://github.com/nuxt-community/i18n-module) ([v7.2.2](https://github.com/nuxt-community/i18n-module/releases/tag/v7.2.2), 2 weeks ago) - i18n for Nuxt
-- [api-platform/core](https://github.com/api-platform/core) ([v2.6.8](https://github.com/api-platform/core/releases/tag/v2.6.8), 3 months ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [api-platform/core](https://github.com/api-platform/core) ([v2.6.8](https://github.com/api-platform/core/releases/tag/v2.6.8), 4 months ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.13.0](https://github.com/dunglas/mercure/releases/tag/v0.13.0), 7 months ago) - Server-sent live updates: protocol and reference implementation
 - [unjs/destr](https://github.com/unjs/destr) ([v1.0.1](https://github.com/unjs/destr/releases/tag/v1.0.1), 2 years ago) - Faster, secure and convenient alternative for JSON.parse
 - [ScreamZ/anti-captcha](https://github.com/ScreamZ/anti-captcha) ([v1.1.0](https://github.com/ScreamZ/anti-captcha/releases/tag/v1.1.0), 2 years ago) - A modern JS/TS wrapper around anti-captcha API (Captcha Breaker Software)
