@@ -17,7 +17,7 @@
 
 - [haraka/haraka-plugin-limit](https://github.com/haraka/haraka-plugin-limit) ([1.0.6](https://github.com/haraka/haraka-plugin-limit/releases/tag/1.0.6), 1 week ago) - Enforce many types of limits on a Haraka mail server.
 - [nuxt/framework](https://github.com/nuxt/framework) ([v3.0.0-rc.3](https://github.com/nuxt/framework/releases/tag/v3.0.0-rc.3), 3 weeks ago) - The Hybrid Vue(3) Framework.
-- [nuxtlabs/vue-telescope-analyzer](https://github.com/nuxtlabs/vue-telescope-analyzer) ([v0.9.12](https://github.com/nuxtlabs/vue-telescope-analyzer/releases/tag/v0.9.12), 4 weeks ago) - Detect Vue technologies running on a website ✨
+- [nuxtlabs/vue-telescope-analyzer](https://github.com/nuxtlabs/vue-telescope-analyzer) ([v0.9.12](https://github.com/nuxtlabs/vue-telescope-analyzer/releases/tag/v0.9.12), 1 month ago) - Detect Vue technologies running on a website ✨
 - [nuxt-community/i18n-module](https://github.com/nuxt-community/i18n-module) ([v7.2.2](https://github.com/nuxt-community/i18n-module/releases/tag/v7.2.2), 1 month ago) - i18n for Nuxt
 - [api-platform/core](https://github.com/api-platform/core) ([v2.6.8](https://github.com/api-platform/core/releases/tag/v2.6.8), 4 months ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.13.0](https://github.com/dunglas/mercure/releases/tag/v0.13.0), 7 months ago) - Server-sent live updates: protocol and reference implementation
