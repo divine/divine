@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (2 weeks ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (3 weeks ago)
 - [divine/app-redirect](https://github.com/divine/app-redirect) -  (1 month ago)
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (1 month ago)
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (2 months ago)
 - [nuxt/framework](https://github.com/nuxt/framework) - The Hybrid Vue(3) Framework. (2 months ago)
 - [unjs/ufo](https://github.com/unjs/ufo) - URL utils for humans (2 months ago)
 - [haraka/haraka-plugin-limit](https://github.com/haraka/haraka-plugin-limit) - Enforce many types of limits on a Haraka mail server. (2 months ago)
@@ -15,7 +15,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [haraka/haraka-plugin-limit](https://github.com/haraka/haraka-plugin-limit) ([1.0.7](https://github.com/haraka/haraka-plugin-limit/releases/tag/1.0.7), 2 days ago) - Enforce many types of limits on a Haraka mail server.
+- [haraka/haraka-plugin-limit](https://github.com/haraka/haraka-plugin-limit) ([1.0.7](https://github.com/haraka/haraka-plugin-limit/releases/tag/1.0.7), 3 days ago) - Enforce many types of limits on a Haraka mail server.
 - [nuxt/framework](https://github.com/nuxt/framework) ([v3.0.0-rc.3](https://github.com/nuxt/framework/releases/tag/v3.0.0-rc.3), 3 weeks ago) - The Hybrid Vue(3) Framework.
 - [nuxtlabs/vue-telescope-analyzer](https://github.com/nuxtlabs/vue-telescope-analyzer) ([v0.9.12](https://github.com/nuxtlabs/vue-telescope-analyzer/releases/tag/v0.9.12), 1 month ago) - Detect Vue technologies running on a website ✨
 - [nuxt-community/i18n-module](https://github.com/nuxt-community/i18n-module) ([v7.2.2](https://github.com/nuxt-community/i18n-module/releases/tag/v7.2.2), 1 month ago) - i18n for Nuxt
