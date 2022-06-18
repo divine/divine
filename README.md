@@ -15,7 +15,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [nuxt/framework](https://github.com/nuxt/framework) ([v3.0.0-rc.4](https://github.com/nuxt/framework/releases/tag/v3.0.0-rc.4), 4 days ago) - The Hybrid Vue(3) Framework.
+- [nuxt/framework](https://github.com/nuxt/framework) ([v3.0.0-rc.4](https://github.com/nuxt/framework/releases/tag/v3.0.0-rc.4), 5 days ago) - The Hybrid Vue(3) Framework.
 - [haraka/haraka-plugin-limit](https://github.com/haraka/haraka-plugin-limit) ([1.0.7](https://github.com/haraka/haraka-plugin-limit/releases/tag/1.0.7), 2 weeks ago) - Enforce many types of limits on a Haraka mail server.
 - [nuxtlabs/vue-telescope-analyzer](https://github.com/nuxtlabs/vue-telescope-analyzer) ([v0.9.12](https://github.com/nuxtlabs/vue-telescope-analyzer/releases/tag/v0.9.12), 1 month ago) - Detect Vue technologies running on a website ✨
 - [nuxt-community/i18n-module](https://github.com/nuxt-community/i18n-module) ([v7.2.2](https://github.com/nuxt-community/i18n-module/releases/tag/v7.2.2), 1 month ago) - i18n for Nuxt
