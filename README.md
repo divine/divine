@@ -15,7 +15,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [jenssegers/laravel-mongodb](https://github.com/jenssegers/laravel-mongodb) ([v3.9.1](https://github.com/jenssegers/laravel-mongodb/releases/tag/v3.9.1), 4 days ago) - A MongoDB based Eloquent model and Query builder for Laravel (Moloquent)
+- [jenssegers/laravel-mongodb](https://github.com/jenssegers/laravel-mongodb) ([v3.9.1](https://github.com/jenssegers/laravel-mongodb/releases/tag/v3.9.1), 5 days ago) - A MongoDB based Eloquent model and Query builder for Laravel (Moloquent)
 - [nuxt/framework](https://github.com/nuxt/framework) ([v3.0.0-rc.4](https://github.com/nuxt/framework/releases/tag/v3.0.0-rc.4), 3 weeks ago) - The Hybrid Vue(3) Framework.
 - [haraka/haraka-plugin-limit](https://github.com/haraka/haraka-plugin-limit) ([1.0.7](https://github.com/haraka/haraka-plugin-limit/releases/tag/1.0.7), 1 month ago) - Enforce many types of limits on a Haraka mail server.
 - [nuxtlabs/vue-telescope-analyzer](https://github.com/nuxtlabs/vue-telescope-analyzer) ([v0.9.12](https://github.com/nuxtlabs/vue-telescope-analyzer/releases/tag/v0.9.12), 2 months ago) - Detect Vue technologies running on a website ✨
