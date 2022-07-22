@@ -22,7 +22,6 @@
 - [nuxtlabs/vue-telescope-analyzer](https://github.com/nuxtlabs/vue-telescope-analyzer) ([v0.9.12](https://github.com/nuxtlabs/vue-telescope-analyzer/releases/tag/v0.9.12), 2 months ago) - Detect Vue technologies running on a website ✨
 - [nuxt-community/i18n-module](https://github.com/nuxt-community/i18n-module) ([v7.2.2](https://github.com/nuxt-community/i18n-module/releases/tag/v7.2.2), 2 months ago) - i18n for Nuxt
 - [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.13.0](https://github.com/dunglas/mercure/releases/tag/v0.13.0), 9 months ago) - Server-sent live updates: protocol and reference implementation
-- [unjs/destr](https://github.com/unjs/destr) ([v1.0.1](https://github.com/unjs/destr/releases/tag/v1.0.1), 2 years ago) - Faster, secure and convenient alternative for JSON.parse
 - [ScreamZ/anti-captcha](https://github.com/ScreamZ/anti-captcha) ([v1.1.0](https://github.com/ScreamZ/anti-captcha/releases/tag/v1.1.0), 2 years ago) - A modern JS/TS wrapper around anti-captcha API (Captcha Breaker Software)
 
 #### 💬 Feedback
