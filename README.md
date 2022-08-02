@@ -18,8 +18,8 @@
 - [api-platform/core](https://github.com/api-platform/core) ([v3.0.0-rc.2](https://github.com/api-platform/core/releases/tag/v3.0.0-rc.2), 1 week ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [nuxt/framework](https://github.com/nuxt/framework) ([v3.0.0-rc.6](https://github.com/nuxt/framework/releases/tag/v3.0.0-rc.6), 2 weeks ago) - The Hybrid Vue(3) Framework.
 - [jenssegers/laravel-mongodb](https://github.com/jenssegers/laravel-mongodb) ([v3.8.5](https://github.com/jenssegers/laravel-mongodb/releases/tag/v3.8.5), 2 weeks ago) - A MongoDB based Eloquent model and Query builder for Laravel (Moloquent)
-- [haraka/haraka-plugin-limit](https://github.com/haraka/haraka-plugin-limit) ([1.0.7](https://github.com/haraka/haraka-plugin-limit/releases/tag/1.0.7), 1 month ago) - Enforce many types of limits on a Haraka mail server.
-- [nuxtlabs/vue-telescope-analyzer](https://github.com/nuxtlabs/vue-telescope-analyzer) ([v0.9.12](https://github.com/nuxtlabs/vue-telescope-analyzer/releases/tag/v0.9.12), 2 months ago) - Detect Vue technologies running on a website ✨
+- [haraka/haraka-plugin-limit](https://github.com/haraka/haraka-plugin-limit) ([1.0.7](https://github.com/haraka/haraka-plugin-limit/releases/tag/1.0.7), 2 months ago) - Enforce many types of limits on a Haraka mail server.
+- [nuxtlabs/vue-telescope-analyzer](https://github.com/nuxtlabs/vue-telescope-analyzer) ([v0.9.12](https://github.com/nuxtlabs/vue-telescope-analyzer/releases/tag/v0.9.12), 3 months ago) - Detect Vue technologies running on a website ✨
 - [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.13.0](https://github.com/dunglas/mercure/releases/tag/v0.13.0), 9 months ago) - Server-sent live updates: protocol and reference implementation
 - [ScreamZ/anti-captcha](https://github.com/ScreamZ/anti-captcha) ([v1.1.0](https://github.com/ScreamZ/anti-captcha/releases/tag/v1.1.0), 2 years ago) - A modern JS/TS wrapper around anti-captcha API (Captcha Breaker Software)
 
