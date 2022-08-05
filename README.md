@@ -4,7 +4,7 @@
 
 - [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (4 weeks ago)
 - [divine/app-redirect](https://github.com/divine/app-redirect) -  (3 months ago)
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (3 months ago)
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (4 months ago)
 - [unjs/ufo](https://github.com/unjs/ufo) - URL utils for humans (4 months ago)
 - [nuxt/framework](https://github.com/nuxt/framework) - The Hybrid Vue(3) Framework. (4 months ago)
 - [jenssegers/laravel-mongodb](https://github.com/jenssegers/laravel-mongodb) - A MongoDB based Eloquent model and Query builder for Laravel (Moloquent) (4 months ago)
