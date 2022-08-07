@@ -20,7 +20,7 @@
 - [jenssegers/laravel-mongodb](https://github.com/jenssegers/laravel-mongodb) ([v3.8.5](https://github.com/jenssegers/laravel-mongodb/releases/tag/v3.8.5), 3 weeks ago) - A MongoDB based Eloquent model and Query builder for Laravel (Moloquent)
 - [haraka/haraka-plugin-limit](https://github.com/haraka/haraka-plugin-limit) ([1.0.7](https://github.com/haraka/haraka-plugin-limit/releases/tag/1.0.7), 2 months ago) - Enforce many types of limits on a Haraka mail server.
 - [nuxtlabs/vue-telescope-analyzer](https://github.com/nuxtlabs/vue-telescope-analyzer) ([v0.9.12](https://github.com/nuxtlabs/vue-telescope-analyzer/releases/tag/v0.9.12), 3 months ago) - Detect Vue technologies running on a website ✨
-- [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.13.0](https://github.com/dunglas/mercure/releases/tag/v0.13.0), 9 months ago) - Server-sent live updates: protocol and reference implementation
+- [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.13.0](https://github.com/dunglas/mercure/releases/tag/v0.13.0), 10 months ago) - Server-sent live updates: protocol and reference implementation
 - [ScreamZ/anti-captcha](https://github.com/ScreamZ/anti-captcha) ([v1.1.0](https://github.com/ScreamZ/anti-captcha/releases/tag/v1.1.0), 2 years ago) - A modern JS/TS wrapper around anti-captcha API (Captcha Breaker Software)
 
 #### 💬 Feedback
