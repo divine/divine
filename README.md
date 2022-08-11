@@ -17,7 +17,7 @@
 
 - [api-platform/core](https://github.com/api-platform/core) ([v3.0.0-rc.2](https://github.com/api-platform/core/releases/tag/v3.0.0-rc.2), 2 weeks ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [nuxt/framework](https://github.com/nuxt/framework) ([v3.0.0-rc.6](https://github.com/nuxt/framework/releases/tag/v3.0.0-rc.6), 3 weeks ago) - The Hybrid Vue(3) Framework.
-- [jenssegers/laravel-mongodb](https://github.com/jenssegers/laravel-mongodb) ([v3.8.5](https://github.com/jenssegers/laravel-mongodb/releases/tag/v3.8.5), 3 weeks ago) - A MongoDB based Eloquent model and Query builder for Laravel (Moloquent)
+- [jenssegers/laravel-mongodb](https://github.com/jenssegers/laravel-mongodb) ([v3.8.5](https://github.com/jenssegers/laravel-mongodb/releases/tag/v3.8.5), 4 weeks ago) - A MongoDB based Eloquent model and Query builder for Laravel (Moloquent)
 - [haraka/haraka-plugin-limit](https://github.com/haraka/haraka-plugin-limit) ([1.0.7](https://github.com/haraka/haraka-plugin-limit/releases/tag/1.0.7), 2 months ago) - Enforce many types of limits on a Haraka mail server.
 - [nuxtlabs/vue-telescope-analyzer](https://github.com/nuxtlabs/vue-telescope-analyzer) ([v0.9.12](https://github.com/nuxtlabs/vue-telescope-analyzer/releases/tag/v0.9.12), 3 months ago) - Detect Vue technologies running on a website ✨
 - [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.13.0](https://github.com/dunglas/mercure/releases/tag/v0.13.0), 10 months ago) - An open, easy, fast, reliable and battery-efficient solution for real-time communications
