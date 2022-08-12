@@ -15,7 +15,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [nuxt/framework](https://github.com/nuxt/framework) ([v3.0.0-rc.7](https://github.com/nuxt/framework/releases/tag/v3.0.0-rc.7), 1 day ago) - The Hybrid Vue(3) Framework.
+- [nuxt/framework](https://github.com/nuxt/framework) ([v3.0.0-rc.8](https://github.com/nuxt/framework/releases/tag/v3.0.0-rc.8), today) - The Hybrid Vue(3) Framework.
 - [api-platform/core](https://github.com/api-platform/core) ([v3.0.0-rc.2](https://github.com/api-platform/core/releases/tag/v3.0.0-rc.2), 2 weeks ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [jenssegers/laravel-mongodb](https://github.com/jenssegers/laravel-mongodb) ([v3.8.5](https://github.com/jenssegers/laravel-mongodb/releases/tag/v3.8.5), 4 weeks ago) - A MongoDB based Eloquent model and Query builder for Laravel (Moloquent)
 - [haraka/haraka-plugin-limit](https://github.com/haraka/haraka-plugin-limit) ([1.0.7](https://github.com/haraka/haraka-plugin-limit/releases/tag/1.0.7), 2 months ago) - Enforce many types of limits on a Haraka mail server.
