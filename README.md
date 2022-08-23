@@ -15,7 +15,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [haraka/haraka-plugin-limit](https://github.com/haraka/haraka-plugin-limit) ([1.1.0](https://github.com/haraka/haraka-plugin-limit/releases/tag/1.1.0), 3 days ago) - Enforce many types of limits on a Haraka mail server.
+- [haraka/haraka-plugin-limit](https://github.com/haraka/haraka-plugin-limit) ([1.1.0](https://github.com/haraka/haraka-plugin-limit/releases/tag/1.1.0), 4 days ago) - Enforce many types of limits on a Haraka mail server.
 - [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.14.0-beta.2](https://github.com/dunglas/mercure/releases/tag/v0.14.0-beta.2), 1 week ago) - An open, easy, fast, reliable and battery-efficient solution for real-time communications
 - [nuxt/framework](https://github.com/nuxt/framework) ([v3.0.0-rc.8](https://github.com/nuxt/framework/releases/tag/v3.0.0-rc.8), 1 week ago) - The Hybrid Vue(3) Framework.
 - [api-platform/core](https://github.com/api-platform/core) ([v3.0.0-rc.2](https://github.com/api-platform/core/releases/tag/v3.0.0-rc.2), 4 weeks ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
