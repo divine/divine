@@ -19,7 +19,6 @@
 - [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.14.0-beta.2](https://github.com/dunglas/mercure/releases/tag/v0.14.0-beta.2), 2 weeks ago) - An open, easy, fast, reliable and battery-efficient solution for real-time communications
 - [nuxt/framework](https://github.com/nuxt/framework) ([v3.0.0-rc.8](https://github.com/nuxt/framework/releases/tag/v3.0.0-rc.8), 2 weeks ago) - The Hybrid Vue(3) Framework.
 - [api-platform/core](https://github.com/api-platform/core) ([v3.0.0-rc.2](https://github.com/api-platform/core/releases/tag/v3.0.0-rc.2), 1 month ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [jenssegers/laravel-mongodb](https://github.com/jenssegers/laravel-mongodb) ([v3.8.5](https://github.com/jenssegers/laravel-mongodb/releases/tag/v3.8.5), 1 month ago) - A MongoDB based Eloquent model and Query builder for Laravel (Moloquent)
 - [nuxtlabs/vue-telescope-analyzer](https://github.com/nuxtlabs/vue-telescope-analyzer) ([v0.9.12](https://github.com/nuxtlabs/vue-telescope-analyzer/releases/tag/v0.9.12), 4 months ago) - Detect Vue technologies running on a website ✨
 - [ScreamZ/anti-captcha](https://github.com/ScreamZ/anti-captcha) ([v1.1.0](https://github.com/ScreamZ/anti-captcha/releases/tag/v1.1.0), 2 years ago) - A modern JS/TS wrapper around anti-captcha API (Captcha Breaker Software)
 
