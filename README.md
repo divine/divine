@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [jenssegers/laravel-mongodb](https://github.com/jenssegers/laravel-mongodb) - A MongoDB based Eloquent model and Query builder for Laravel (Moloquent) (1 month ago)
+- [jenssegers/laravel-mongodb](https://github.com/jenssegers/laravel-mongodb) - A MongoDB based Eloquent model and Query builder for Laravel (Moloquent) (today)
 - [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (1 month ago)
 - [divine/app-redirect](https://github.com/divine/app-redirect) -  (4 months ago)
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (4 months ago)
@@ -15,6 +15,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [jenssegers/laravel-mongodb](https://github.com/jenssegers/laravel-mongodb) ([v3.9.2](https://github.com/jenssegers/laravel-mongodb/releases/tag/v3.9.2), today) - A MongoDB based Eloquent model and Query builder for Laravel (Moloquent)
 - [haraka/haraka-plugin-limit](https://github.com/haraka/haraka-plugin-limit) ([1.1.0](https://github.com/haraka/haraka-plugin-limit/releases/tag/1.1.0), 1 week ago) - Enforce many types of limits on a Haraka mail server.
 - [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.14.0-beta.2](https://github.com/dunglas/mercure/releases/tag/v0.14.0-beta.2), 2 weeks ago) - An open, easy, fast, reliable and battery-efficient solution for real-time communications
 - [nuxt/framework](https://github.com/nuxt/framework) ([v3.0.0-rc.8](https://github.com/nuxt/framework/releases/tag/v3.0.0-rc.8), 2 weeks ago) - The Hybrid Vue(3) Framework.
