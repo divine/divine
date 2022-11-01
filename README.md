@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (1 month ago)
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (2 months ago)
 - [jenssegers/laravel-mongodb](https://github.com/jenssegers/laravel-mongodb) - A MongoDB based Eloquent model and Query builder for Laravel (Moloquent) (2 months ago)
 - [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (3 months ago)
 - [divine/app-redirect](https://github.com/divine/app-redirect) -  (6 months ago)
@@ -15,7 +15,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [nuxt/framework](https://github.com/nuxt/framework) ([v3.0.0-rc.12](https://github.com/nuxt/framework/releases/tag/v3.0.0-rc.12), 1 week ago) - The Intuitive Web Framework, based on Vue 3.
+- [nuxt/framework](https://github.com/nuxt/framework) ([v3.0.0-rc.12](https://github.com/nuxt/framework/releases/tag/v3.0.0-rc.12), 2 weeks ago) - The Intuitive Web Framework, based on Vue 3.
 - [nuxtlabs/vue-telescope-analyzer](https://github.com/nuxtlabs/vue-telescope-analyzer) ([v0.9.14](https://github.com/nuxtlabs/vue-telescope-analyzer/releases/tag/v0.9.14), 1 month ago) - Detect Vue technologies running on a website ✨
 - [api-platform/core](https://github.com/api-platform/core) ([v3.0.0](https://github.com/api-platform/core/releases/tag/v3.0.0), 1 month ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.14.1](https://github.com/dunglas/mercure/releases/tag/v0.14.1), 1 month ago) - An open, easy, fast, reliable and battery-efficient solution for real-time communications
