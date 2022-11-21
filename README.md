@@ -15,8 +15,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [nuxt/framework](https://github.com/nuxt/framework) ([v3.0.0](https://github.com/nuxt/framework/releases/tag/v3.0.0), 4 days ago) - The Intuitive Web Framework, based on Vue 3.
-- [api-platform/core](https://github.com/api-platform/core) ([v3.0.4](https://github.com/api-platform/core/releases/tag/v3.0.4), 5 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [nuxt/framework](https://github.com/nuxt/framework) ([v3.0.0](https://github.com/nuxt/framework/releases/tag/v3.0.0), 5 days ago) - The Intuitive Web Framework, based on Vue 3.
+- [api-platform/core](https://github.com/api-platform/core) ([v3.0.4](https://github.com/api-platform/core/releases/tag/v3.0.4), 6 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [nuxtlabs/vue-telescope-analyzer](https://github.com/nuxtlabs/vue-telescope-analyzer) ([v0.9.14](https://github.com/nuxtlabs/vue-telescope-analyzer/releases/tag/v0.9.14), 2 months ago) - Detect Vue technologies running on a website ✨
 - [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.14.1](https://github.com/dunglas/mercure/releases/tag/v0.14.1), 2 months ago) - An open, easy, fast, reliable and battery-efficient solution for real-time communications
 - [jenssegers/laravel-mongodb](https://github.com/jenssegers/laravel-mongodb) ([v3.9.2](https://github.com/jenssegers/laravel-mongodb/releases/tag/v3.9.2), 2 months ago) - A MongoDB based Eloquent model and Query builder for Laravel (Moloquent)
