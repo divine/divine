@@ -21,7 +21,6 @@
 - [nuxt/framework](https://github.com/nuxt/framework) ([v3.0.0](https://github.com/nuxt/framework/releases/tag/v3.0.0), 1 month ago) - The Intuitive Web Framework, based on Vue 3.
 - [jenssegers/laravel-mongodb](https://github.com/jenssegers/laravel-mongodb) ([v3.9.2](https://github.com/jenssegers/laravel-mongodb/releases/tag/v3.9.2), 3 months ago) - A MongoDB based Eloquent model and Query builder for Laravel (Moloquent)
 - [haraka/haraka-plugin-limit](https://github.com/haraka/haraka-plugin-limit) ([1.1.0](https://github.com/haraka/haraka-plugin-limit/releases/tag/1.1.0), 4 months ago) - Enforce many types of limits on a Haraka mail server.
-- [ScreamZ/anti-captcha](https://github.com/ScreamZ/anti-captcha) ([v1.1.0](https://github.com/ScreamZ/anti-captcha/releases/tag/v1.1.0), 3 years ago) - A modern JS/TS wrapper around anti-captcha API (Captcha Breaker Software)
 
 #### 💬 Feedback
 You never know how strong you are, until being strong is the only choice you have.
