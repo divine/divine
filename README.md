@@ -9,7 +9,7 @@
 - [unjs/ufo](https://github.com/unjs/ufo) - URL utils for humans (9 months ago)
 - [nuxt/framework](https://github.com/nuxt/framework) - The Intuitive Web Framework, based on Vue 3. (9 months ago)
 - [haraka/haraka-plugin-limit](https://github.com/haraka/haraka-plugin-limit) - Enforce many types of limits on a Haraka mail server. (9 months ago)
-- [nuxt/modules](https://github.com/nuxt/modules) - Discover the list of modules to supercharge your Nuxt project. (10 months ago)
+- [nuxt/modules](https://github.com/nuxt/modules) - Discover the list of modules to supercharge your Nuxt project. (11 months ago)
 - [nuxtlabs/vue-telescope-analyzer](https://github.com/nuxtlabs/vue-telescope-analyzer) - Detect Vue technologies running on a website ✨ (11 months ago)
 
 #### 🔭 Latest releases I've contributed to
