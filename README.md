@@ -6,7 +6,7 @@
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (4 months ago)
 - [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (6 months ago)
 - [divine/app-redirect](https://github.com/divine/app-redirect) -  (9 months ago)
-- [unjs/ufo](https://github.com/unjs/ufo) - URL utils for humans (10 months ago)
+- [unjs/ufo](https://github.com/unjs/ufo) - 🔗 URL utils for humans (10 months ago)
 - [nuxt/framework](https://github.com/nuxt/framework) - Nuxt is an intuitive and extendable way to create type-safe, performant and production-grade full-stack web apps and websites with Vue 3. (10 months ago)
 - [haraka/haraka-plugin-limit](https://github.com/haraka/haraka-plugin-limit) - Enforce many types of limits on a Haraka mail server. (10 months ago)
 - [nuxt/modules](https://github.com/nuxt/modules) - Discover the Nuxt modules to add any CMS, Database, UI, Auth and integrations into your Vue application. (11 months ago)
