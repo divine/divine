@@ -15,7 +15,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/core](https://github.com/api-platform/core) ([v2.7.8](https://github.com/api-platform/core/releases/tag/v2.7.8), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [api-platform/core](https://github.com/api-platform/core) ([v3.1.1](https://github.com/api-platform/core/releases/tag/v3.1.1), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [nuxt/nuxt](https://github.com/nuxt/nuxt) ([v3.1.1](https://github.com/nuxt/nuxt/releases/tag/v3.1.1), 2 days ago) - Nuxt is an intuitive and extendable way to create type-safe, performant and production-grade full-stack web apps and websites with Vue 3.
 - [jenssegers/laravel-mongodb](https://github.com/jenssegers/laravel-mongodb) ([3.9.3](https://github.com/jenssegers/laravel-mongodb/releases/tag/3.9.3), 1 week ago) - A MongoDB based Eloquent model and Query builder for Laravel (Moloquent)
 - [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.14.4](https://github.com/dunglas/mercure/releases/tag/v0.14.4), 1 week ago) - An open, easy, fast, reliable and battery-efficient solution for real-time communications
