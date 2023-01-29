@@ -11,7 +11,6 @@
 - [nuxt/framework](https://github.com/nuxt/framework) - Old repo of Nuxt 3 framework, now on nuxt/nuxt (10 months ago)
 - [haraka/haraka-plugin-limit](https://github.com/haraka/haraka-plugin-limit) - Enforce many types of limits on a Haraka mail server. (10 months ago)
 - [nuxt/modules](https://github.com/nuxt/modules) - Discover the Nuxt modules to add any CMS, Database, UI, Auth and integrations into your Vue application. (1 year ago)
-- [nuxtlabs/vue-telescope-analyzer](https://github.com/nuxtlabs/vue-telescope-analyzer) - Detect Vue technologies running on a website ✨ (1 year ago)
 
 #### 🔭 Latest releases I've contributed to
 
