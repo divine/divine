@@ -4,17 +4,17 @@
 
 - [jenssegers/laravel-mongodb](https://github.com/jenssegers/laravel-mongodb) - A MongoDB based Eloquent model and Query builder for Laravel (Moloquent) (2 weeks ago)
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (5 months ago)
-- [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (6 months ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (7 months ago)
 - [divine/app-redirect](https://github.com/divine/app-redirect) -  (9 months ago)
 - [nuxt/nuxt](https://github.com/nuxt/nuxt) - Nuxt is an intuitive and extendable way to create type-safe, performant and production-grade full-stack web apps and websites with Vue 3. (10 months ago)
 - [unjs/ufo](https://github.com/unjs/ufo) - 🔗 URL utils for humans (10 months ago)
 - [nuxt/framework](https://github.com/nuxt/framework) - Old repo of Nuxt 3 framework, now on nuxt/nuxt (10 months ago)
-- [haraka/haraka-plugin-limit](https://github.com/haraka/haraka-plugin-limit) - Enforce many types of limits on a Haraka mail server. (10 months ago)
+- [haraka/haraka-plugin-limit](https://github.com/haraka/haraka-plugin-limit) - Enforce many types of limits on a Haraka mail server. (11 months ago)
 - [nuxt/modules](https://github.com/nuxt/modules) - Discover the Nuxt modules to add any CMS, Database, UI, Auth and integrations into your Vue application. (1 year ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/core](https://github.com/api-platform/core) ([v3.1.1](https://github.com/api-platform/core/releases/tag/v3.1.1), 5 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [api-platform/core](https://github.com/api-platform/core) ([v3.1.1](https://github.com/api-platform/core/releases/tag/v3.1.1), 6 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [nuxt/nuxt](https://github.com/nuxt/nuxt) ([v3.1.1](https://github.com/nuxt/nuxt/releases/tag/v3.1.1), 1 week ago) - Nuxt is an intuitive and extendable way to create type-safe, performant and production-grade full-stack web apps and websites with Vue 3.
 - [jenssegers/laravel-mongodb](https://github.com/jenssegers/laravel-mongodb) ([3.9.3](https://github.com/jenssegers/laravel-mongodb/releases/tag/3.9.3), 2 weeks ago) - A MongoDB based Eloquent model and Query builder for Laravel (Moloquent)
 - [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.14.4](https://github.com/dunglas/mercure/releases/tag/v0.14.4), 2 weeks ago) - An open, easy, fast, reliable and battery-efficient solution for real-time communications
