@@ -19,7 +19,6 @@
 - [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.14.5](https://github.com/dunglas/mercure/releases/tag/v0.14.5), 2 weeks ago) - An open, easy, fast, reliable and battery-efficient solution for real-time communications
 - [jenssegers/laravel-mongodb](https://github.com/jenssegers/laravel-mongodb) ([v3.9.5](https://github.com/jenssegers/laravel-mongodb/releases/tag/v3.9.5), 3 weeks ago) - A MongoDB based Eloquent model and Query builder for Laravel (Moloquent)
 - [nuxt/framework](https://github.com/nuxt/framework) ([v3.0.0](https://github.com/nuxt/framework/releases/tag/v3.0.0), 3 months ago) - Old repo of Nuxt 3 framework, now on nuxt/nuxt
-- [haraka/haraka-plugin-limit](https://github.com/haraka/haraka-plugin-limit) ([1.1.0](https://github.com/haraka/haraka-plugin-limit/releases/tag/1.1.0), 6 months ago) - Enforce many types of limits on a Haraka mail server.
 
 #### 💬 Feedback
 You never know how strong you are, until being strong is the only choice you have.
