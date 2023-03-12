@@ -10,7 +10,6 @@
 - [divine/app-redirect](https://github.com/divine/app-redirect) -  (10 months ago)
 - [nuxt/framework](https://github.com/nuxt/framework) - Old repo of Nuxt 3 framework, now on nuxt/nuxt (1 year ago)
 - [nuxt/nuxt](https://github.com/nuxt/nuxt) - Nuxt is an intuitive and extendable way to create type-safe, performant and production-grade full-stack web apps and websites with Vue 3. (1 year ago)
-- [haraka/haraka-plugin-limit](https://github.com/haraka/haraka-plugin-limit) - Enforce many types of limits on a Haraka mail server. (1 year ago)
 
 #### 🔭 Latest releases I've contributed to
 
