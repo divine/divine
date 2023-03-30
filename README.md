@@ -11,7 +11,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/core](https://github.com/api-platform/core) ([v3.1.6](https://github.com/api-platform/core/releases/tag/v3.1.6), 5 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [api-platform/core](https://github.com/api-platform/core) ([v3.1.6](https://github.com/api-platform/core/releases/tag/v3.1.6), 6 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.14.5](https://github.com/dunglas/mercure/releases/tag/v0.14.5), 1 month ago) - An open, easy, fast, reliable and battery-efficient solution for real-time communications
 - [jenssegers/laravel-mongodb](https://github.com/jenssegers/laravel-mongodb) ([v3.9.5](https://github.com/jenssegers/laravel-mongodb/releases/tag/v3.9.5), 1 month ago) - A MongoDB based Eloquent model and Query builder for Laravel (Moloquent)
 
