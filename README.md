@@ -10,8 +10,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/core](https://github.com/api-platform/core) ([v3.1.11](https://github.com/api-platform/core/releases/tag/v3.1.11), 4 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [unjs/ufo](https://github.com/unjs/ufo) ([v1.1.2](https://github.com/unjs/ufo/releases/tag/v1.1.2), 6 days ago) - 🔗 URL utils for humans
+- [api-platform/core](https://github.com/api-platform/core) ([v3.1.11](https://github.com/api-platform/core/releases/tag/v3.1.11), 5 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [unjs/ufo](https://github.com/unjs/ufo) ([v1.1.2](https://github.com/unjs/ufo/releases/tag/v1.1.2), 1 week ago) - 🔗 URL utils for humans
 - [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.14.5](https://github.com/dunglas/mercure/releases/tag/v0.14.5), 2 months ago) - An open, easy, fast, reliable and battery-efficient solution for real-time communications
 - [jenssegers/laravel-mongodb](https://github.com/jenssegers/laravel-mongodb) ([v3.9.5](https://github.com/jenssegers/laravel-mongodb/releases/tag/v3.9.5), 2 months ago) - A MongoDB based Eloquent model and Query builder for Laravel (Moloquent)
 
