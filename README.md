@@ -6,7 +6,6 @@
 - [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (4 months ago)
 - [jenssegers/laravel-mongodb](https://github.com/jenssegers/laravel-mongodb) - A MongoDB based Eloquent model and Query builder for Laravel (Moloquent) (4 months ago)
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (10 months ago)
-- [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (1 year ago)
 
 #### 🔭 Latest releases I've contributed to
 
