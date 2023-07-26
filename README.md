@@ -15,5 +15,3 @@
 
 #### 💬 Feedback
 You never know how strong you are, until being strong is the only choice you have.
-
-I am contributing to open sources projects because I love them and need them to shine.
