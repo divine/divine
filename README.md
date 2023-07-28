@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [unjs/ufo](https://github.com/unjs/ufo) - 🔗 URL utils for humans (today)
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (3 days ago)
-- [unjs/ufo](https://github.com/unjs/ufo) - 🔗 URL utils for humans (5 months ago)
 - [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (5 months ago)
 - [jenssegers/laravel-mongodb](https://github.com/jenssegers/laravel-mongodb) - A MongoDB based Eloquent model and Query builder for Laravel (Moloquent) (5 months ago)
 
