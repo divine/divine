@@ -9,7 +9,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/core](https://github.com/api-platform/core) ([v3.2.0-alpha.2](https://github.com/api-platform/core/releases/tag/v3.2.0-alpha.2), 2 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [api-platform/core](https://github.com/api-platform/core) ([v3.2.0-alpha.2](https://github.com/api-platform/core/releases/tag/v3.2.0-alpha.2), 3 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [mongodb/laravel-mongodb](https://github.com/mongodb/laravel-mongodb) ([v4.0.0-ALPHA2](https://github.com/mongodb/laravel-mongodb/releases/tag/v4.0.0-ALPHA2), 1 week ago) - A MongoDB based Eloquent model and Query builder for Laravel (Moloquent)
 - [unjs/ufo](https://github.com/unjs/ufo) ([v1.3.0](https://github.com/unjs/ufo/releases/tag/v1.3.0), 2 weeks ago) - 🔗 URL utils for humans
 
