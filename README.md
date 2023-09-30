@@ -9,8 +9,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [mongodb/laravel-mongodb](https://github.com/mongodb/laravel-mongodb) ([4.0.0](https://github.com/mongodb/laravel-mongodb/releases/tag/4.0.0), 1 day ago) - A MongoDB based Eloquent model and Query builder for Laravel (Moloquent)
-- [unjs/ufo](https://github.com/unjs/ufo) ([v1.3.1](https://github.com/unjs/ufo/releases/tag/v1.3.1), 1 day ago) - 🔗 URL utils for humans
+- [mongodb/laravel-mongodb](https://github.com/mongodb/laravel-mongodb) ([4.0.0](https://github.com/mongodb/laravel-mongodb/releases/tag/4.0.0), 2 days ago) - A MongoDB based Eloquent model and Query builder for Laravel (Moloquent)
+- [unjs/ufo](https://github.com/unjs/ufo) ([v1.3.1](https://github.com/unjs/ufo/releases/tag/v1.3.1), 2 days ago) - 🔗 URL utils for humans
 - [api-platform/core](https://github.com/api-platform/core) ([v3.2.0-beta.1](https://github.com/api-platform/core/releases/tag/v3.2.0-beta.1), 1 week ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 
 #### 💬 Feedback
