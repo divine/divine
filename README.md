@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (today)
 - [divine/apipbug](https://github.com/divine/apipbug) -  (1 week ago)
 - [unjs/ufo](https://github.com/unjs/ufo) - 🔗 URL utils for humans (2 months ago)
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (2 months ago)
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (7 months ago)
 - [mongodb/laravel-mongodb](https://github.com/mongodb/laravel-mongodb) - A MongoDB based Eloquent model and Query builder for Laravel (Moloquent) (7 months ago)
 
 #### 🔭 Latest releases I've contributed to
