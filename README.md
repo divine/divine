@@ -4,8 +4,8 @@
 
 - [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (1 week ago)
 - [divine/apipbug](https://github.com/divine/apipbug) -  (3 weeks ago)
-- [doctrine/DoctrineMongoDBBundle](https://github.com/doctrine/DoctrineMongoDBBundle) - Integrates Doctrine MongoDB ODM with Symfony (2 months ago)
-- [unjs/ufo](https://github.com/unjs/ufo) - 🔗 URL utils for humans (2 months ago)
+- [doctrine/DoctrineMongoDBBundle](https://github.com/doctrine/DoctrineMongoDBBundle) - Integrates Doctrine MongoDB ODM with Symfony (3 months ago)
+- [unjs/ufo](https://github.com/unjs/ufo) - 🔗 URL utils for humans (3 months ago)
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (3 months ago)
 - [mongodb/laravel-mongodb](https://github.com/mongodb/laravel-mongodb) - A MongoDB based Eloquent model and Query builder for Laravel (Moloquent) (8 months ago)
 
@@ -13,8 +13,8 @@
 
 - [api-platform/core](https://github.com/api-platform/core) ([v3.1.21](https://github.com/api-platform/core/releases/tag/v3.1.21), 1 week ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [doctrine/DoctrineMongoDBBundle](https://github.com/doctrine/DoctrineMongoDBBundle) ([4.6.1](https://github.com/doctrine/DoctrineMongoDBBundle/releases/tag/4.6.1), 2 weeks ago) - Integrates Doctrine MongoDB ODM with Symfony
-- [mongodb/laravel-mongodb](https://github.com/mongodb/laravel-mongodb) ([4.0.0](https://github.com/mongodb/laravel-mongodb/releases/tag/4.0.0), 3 weeks ago) - A MongoDB based Eloquent model and Query builder for Laravel (Moloquent)
-- [unjs/ufo](https://github.com/unjs/ufo) ([v1.3.1](https://github.com/unjs/ufo/releases/tag/v1.3.1), 3 weeks ago) - 🔗 URL utils for humans
+- [mongodb/laravel-mongodb](https://github.com/mongodb/laravel-mongodb) ([4.0.0](https://github.com/mongodb/laravel-mongodb/releases/tag/4.0.0), 4 weeks ago) - A MongoDB based Eloquent model and Query builder for Laravel (Moloquent)
+- [unjs/ufo](https://github.com/unjs/ufo) ([v1.3.1](https://github.com/unjs/ufo/releases/tag/v1.3.1), 4 weeks ago) - 🔗 URL utils for humans
 
 #### 💬 Feedback
 You never know how strong you are, until being strong is the only choice you have.
