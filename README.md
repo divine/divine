@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (4 weeks ago)
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (1 month ago)
 - [divine/apipbug](https://github.com/divine/apipbug) -  (1 month ago)
 - [doctrine/DoctrineMongoDBBundle](https://github.com/doctrine/DoctrineMongoDBBundle) - Integrates Doctrine MongoDB ODM with Symfony (3 months ago)
 - [unjs/ufo](https://github.com/unjs/ufo) - 🔗 URL utils for humans (3 months ago)
