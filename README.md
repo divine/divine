@@ -13,7 +13,7 @@
 
 - [unjs/ufo](https://github.com/unjs/ufo) ([v1.3.2](https://github.com/unjs/ufo/releases/tag/v1.3.2), 1 week ago) - 🔗 URL utils for humans
 - [api-platform/core](https://github.com/api-platform/core) ([v3.2.5](https://github.com/api-platform/core/releases/tag/v3.2.5), 1 week ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [mongodb/laravel-mongodb](https://github.com/mongodb/laravel-mongodb) ([4.0.2](https://github.com/mongodb/laravel-mongodb/releases/tag/4.0.2), 2 weeks ago) - A MongoDB based Eloquent model and Query builder for Laravel (Moloquent)
+- [mongodb/laravel-mongodb](https://github.com/mongodb/laravel-mongodb) ([4.0.2](https://github.com/mongodb/laravel-mongodb/releases/tag/4.0.2), 3 weeks ago) - A MongoDB based Eloquent model and Query builder for Laravel (Moloquent)
 - [doctrine/DoctrineMongoDBBundle](https://github.com/doctrine/DoctrineMongoDBBundle) ([4.6.2](https://github.com/doctrine/DoctrineMongoDBBundle/releases/tag/4.6.2), 4 weeks ago) - Integrates Doctrine MongoDB ODM with Symfony
 
 #### 💬 Feedback
