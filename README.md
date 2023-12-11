@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [nuxt-themes/docus-docs-starter](https://github.com/nuxt-themes/docus-docs-starter) - Starter template for Docus. (today)
 - [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (1 month ago)
 - [divine/apipbug](https://github.com/divine/apipbug) -  (2 months ago)
 - [doctrine/DoctrineMongoDBBundle](https://github.com/doctrine/DoctrineMongoDBBundle) - Integrates Doctrine MongoDB ODM with Symfony (4 months ago)
