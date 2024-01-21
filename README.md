@@ -8,14 +8,14 @@
 - [divine/apipbug](https://github.com/divine/apipbug) -  (3 months ago)
 - [doctrine/DoctrineMongoDBBundle](https://github.com/doctrine/DoctrineMongoDBBundle) - Integrates Doctrine MongoDB ODM with Symfony (5 months ago)
 - [unjs/ufo](https://github.com/unjs/ufo) - 🔗 URL utils for humans (5 months ago)
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (5 months ago)
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (6 months ago)
 - [mongodb/laravel-mongodb](https://github.com/mongodb/laravel-mongodb) - A MongoDB based Eloquent model and Query builder for Laravel (Moloquent) (11 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/core](https://github.com/api-platform/core) ([v3.3.0-alpha.1](https://github.com/api-platform/core/releases/tag/v3.3.0-alpha.1), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [mongodb/laravel-mongodb](https://github.com/mongodb/laravel-mongodb) ([4.1.1](https://github.com/mongodb/laravel-mongodb/releases/tag/4.1.1), 3 days ago) - A MongoDB based Eloquent model and Query builder for Laravel (Moloquent)
-- [doctrine/DoctrineMongoDBBundle](https://github.com/doctrine/DoctrineMongoDBBundle) ([5.0.1](https://github.com/doctrine/DoctrineMongoDBBundle/releases/tag/5.0.1), 4 days ago) - Integrates Doctrine MongoDB ODM with Symfony
+- [api-platform/core](https://github.com/api-platform/core) ([v3.3.0-alpha.1](https://github.com/api-platform/core/releases/tag/v3.3.0-alpha.1), 2 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [mongodb/laravel-mongodb](https://github.com/mongodb/laravel-mongodb) ([4.1.1](https://github.com/mongodb/laravel-mongodb/releases/tag/4.1.1), 4 days ago) - A MongoDB based Eloquent model and Query builder for Laravel (Moloquent)
+- [doctrine/DoctrineMongoDBBundle](https://github.com/doctrine/DoctrineMongoDBBundle) ([5.0.1](https://github.com/doctrine/DoctrineMongoDBBundle/releases/tag/5.0.1), 5 days ago) - Integrates Doctrine MongoDB ODM with Symfony
 - [unjs/ufo](https://github.com/unjs/ufo) ([v1.3.2](https://github.com/unjs/ufo/releases/tag/v1.3.2), 2 months ago) - 🔗 URL utils for humans
 
 #### 💬 Feedback
