@@ -2,12 +2,12 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [unjs/ufo](https://github.com/unjs/ufo) - 🔗 URL utils for humans (today)
 - [divine/nuxt-examples-wgwhqu](https://github.com/divine/nuxt-examples-wgwhqu) - Created with StackBlitz ⚡️ (1 month ago)
 - [nuxt-themes/docus-docs-starter](https://github.com/nuxt-themes/docus-docs-starter) - Starter template for Docus. (1 month ago)
 - [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (3 months ago)
 - [divine/apipbug](https://github.com/divine/apipbug) -  (4 months ago)
 - [doctrine/DoctrineMongoDBBundle](https://github.com/doctrine/DoctrineMongoDBBundle) - Integrates Doctrine MongoDB ODM with Symfony (6 months ago)
-- [unjs/ufo](https://github.com/unjs/ufo) - 🔗 URL utils for humans (6 months ago)
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (6 months ago)
 - [mongodb/laravel-mongodb](https://github.com/mongodb/laravel-mongodb) - A MongoDB based Eloquent model and Query builder for Laravel (Moloquent) (11 months ago)
 
