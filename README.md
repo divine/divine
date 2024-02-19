@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [unjs/ufo](https://github.com/unjs/ufo) - 🔗 URL utils for humans (1 week ago)
+- [unjs/ufo](https://github.com/unjs/ufo) - 🔗 URL utils for humans (2 weeks ago)
 - [divine/nuxt-examples-wgwhqu](https://github.com/divine/nuxt-examples-wgwhqu) - Created with StackBlitz ⚡️ (1 month ago)
 - [nuxt-themes/docus-docs-starter](https://github.com/nuxt-themes/docus-docs-starter) - Starter template for Docus. (2 months ago)
 - [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (4 months ago)
