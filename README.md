@@ -8,12 +8,12 @@
 - [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (4 months ago)
 - [divine/apipbug](https://github.com/divine/apipbug) -  (4 months ago)
 - [doctrine/DoctrineMongoDBBundle](https://github.com/doctrine/DoctrineMongoDBBundle) - Integrates Doctrine MongoDB ODM with Symfony (6 months ago)
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (6 months ago)
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (7 months ago)
 - [mongodb/laravel-mongodb](https://github.com/mongodb/laravel-mongodb) - A MongoDB based Eloquent model and Query builder for Laravel (Moloquent) (1 year ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [unjs/ufo](https://github.com/unjs/ufo) ([v1.4.0](https://github.com/unjs/ufo/releases/tag/v1.4.0), 1 week ago) - 🔗 URL utils for humans
+- [unjs/ufo](https://github.com/unjs/ufo) ([v1.4.0](https://github.com/unjs/ufo/releases/tag/v1.4.0), 2 weeks ago) - 🔗 URL utils for humans
 - [api-platform/core](https://github.com/api-platform/core) ([v3.2.13](https://github.com/api-platform/core/releases/tag/v3.2.13), 2 weeks ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [mongodb/laravel-mongodb](https://github.com/mongodb/laravel-mongodb) ([4.1.1](https://github.com/mongodb/laravel-mongodb/releases/tag/4.1.1), 1 month ago) - A MongoDB based Eloquent model and Query builder for Laravel (Moloquent)
 - [doctrine/DoctrineMongoDBBundle](https://github.com/doctrine/DoctrineMongoDBBundle) ([5.0.1](https://github.com/doctrine/DoctrineMongoDBBundle/releases/tag/5.0.1), 1 month ago) - Integrates Doctrine MongoDB ODM with Symfony
