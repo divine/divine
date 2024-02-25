@@ -9,7 +9,6 @@
 - [divine/apipbug](https://github.com/divine/apipbug) -  (4 months ago)
 - [doctrine/DoctrineMongoDBBundle](https://github.com/doctrine/DoctrineMongoDBBundle) - Integrates Doctrine MongoDB ODM with Symfony (7 months ago)
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (7 months ago)
-- [mongodb/laravel-mongodb](https://github.com/mongodb/laravel-mongodb) - A MongoDB based Eloquent model and Query builder for Laravel (Moloquent) (1 year ago)
 
 #### 🔭 Latest releases I've contributed to
 
