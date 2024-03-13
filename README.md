@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Intuitive Vue Framework. (6 days ago)
+- [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Intuitive Vue Framework. (1 week ago)
 - [unjs/ufo](https://github.com/unjs/ufo) - 🔗 URL utils for humans (1 month ago)
 - [divine/nuxt-examples-wgwhqu](https://github.com/divine/nuxt-examples-wgwhqu) - Created with StackBlitz ⚡️ (2 months ago)
 - [nuxt-themes/docus-docs-starter](https://github.com/nuxt-themes/docus-docs-starter) - Starter template for Docus. (3 months ago)
