@@ -13,7 +13,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/core](https://github.com/api-platform/core) ([v3.3.0-beta.1](https://github.com/api-platform/core/releases/tag/v3.3.0-beta.1), 3 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [api-platform/core](https://github.com/api-platform/core) ([v3.3.0-beta.1](https://github.com/api-platform/core/releases/tag/v3.3.0-beta.1), 4 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [unjs/ufo](https://github.com/unjs/ufo) ([v1.5.3](https://github.com/unjs/ufo/releases/tag/v1.5.3), 1 week ago) - 🔗 URL utils for humans
 - [nuxt/nuxt](https://github.com/nuxt/nuxt) ([v3.11.1](https://github.com/nuxt/nuxt/releases/tag/v3.11.1), 2 weeks ago) - The Intuitive Vue Framework.
 - [doctrine/DoctrineMongoDBBundle](https://github.com/doctrine/DoctrineMongoDBBundle) ([5.0.1](https://github.com/doctrine/DoctrineMongoDBBundle/releases/tag/5.0.1), 2 months ago) - Integrates Doctrine MongoDB ODM with Symfony
