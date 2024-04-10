@@ -13,9 +13,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [nuxt/nuxt](https://github.com/nuxt/nuxt) ([v3.11.2](https://github.com/nuxt/nuxt/releases/tag/v3.11.2), 5 days ago) - The Intuitive Vue Framework.
-- [api-platform/core](https://github.com/api-platform/core) ([v3.2.20](https://github.com/api-platform/core/releases/tag/v3.2.20), 6 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [unjs/ufo](https://github.com/unjs/ufo) ([v1.5.3](https://github.com/unjs/ufo/releases/tag/v1.5.3), 2 weeks ago) - 🔗 URL utils for humans
+- [nuxt/nuxt](https://github.com/nuxt/nuxt) ([v3.11.2](https://github.com/nuxt/nuxt/releases/tag/v3.11.2), 6 days ago) - The Intuitive Vue Framework.
+- [api-platform/core](https://github.com/api-platform/core) ([v3.2.20](https://github.com/api-platform/core/releases/tag/v3.2.20), 1 week ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [unjs/ufo](https://github.com/unjs/ufo) ([v1.5.3](https://github.com/unjs/ufo/releases/tag/v1.5.3), 3 weeks ago) - 🔗 URL utils for humans
 - [doctrine/DoctrineMongoDBBundle](https://github.com/doctrine/DoctrineMongoDBBundle) ([5.0.1](https://github.com/doctrine/DoctrineMongoDBBundle/releases/tag/5.0.1), 2 months ago) - Integrates Doctrine MongoDB ODM with Symfony
 
 #### 💬 Feedback
