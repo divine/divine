@@ -4,7 +4,7 @@
 
 - [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Intuitive Vue Framework. (1 month ago)
 - [unjs/ufo](https://github.com/unjs/ufo) - 🔗 URL utils for humans (2 months ago)
-- [divine/nuxt-examples-wgwhqu](https://github.com/divine/nuxt-examples-wgwhqu) - Created with StackBlitz ⚡️ (3 months ago)
+- [divine/nuxt-examples-wgwhqu](https://github.com/divine/nuxt-examples-wgwhqu) - Created with StackBlitz ⚡️ (4 months ago)
 - [nuxt-themes/docus-docs-starter](https://github.com/nuxt-themes/docus-docs-starter) - Starter template for Docus. (4 months ago)
 - [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (6 months ago)
 - [divine/apipbug](https://github.com/divine/apipbug) -  (6 months ago)
