@@ -8,7 +8,7 @@
 - [nuxt-themes/docus-docs-starter](https://github.com/nuxt-themes/docus-docs-starter) - Starter template for Docus. (5 months ago)
 - [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (7 months ago)
 - [divine/apipbug](https://github.com/divine/apipbug) -  (7 months ago)
-- [doctrine/DoctrineMongoDBBundle](https://github.com/doctrine/DoctrineMongoDBBundle) - Integrates Doctrine MongoDB ODM with Symfony (9 months ago)
+- [doctrine/DoctrineMongoDBBundle](https://github.com/doctrine/DoctrineMongoDBBundle) - Integrates Doctrine MongoDB ODM with Symfony (10 months ago)
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (10 months ago)
 
 #### 🔭 Latest releases I've contributed to
