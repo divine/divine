@@ -15,7 +15,6 @@
 
 - [nuxt/nuxt](https://github.com/nuxt/nuxt) ([v3.12.4](https://github.com/nuxt/nuxt/releases/tag/v3.12.4), 1 week ago) - The Intuitive Vue Framework.
 - [unjs/ufo](https://github.com/unjs/ufo) ([v1.5.4](https://github.com/unjs/ufo/releases/tag/v1.5.4), 1 week ago) - 🔗 URL utils for humans
-- [doctrine/DoctrineMongoDBBundle](https://github.com/doctrine/DoctrineMongoDBBundle) ([5.0.1](https://github.com/doctrine/DoctrineMongoDBBundle/releases/tag/5.0.1), 6 months ago) - Integrates Doctrine MongoDB ODM with Symfony
 
 #### 💬 Feedback
 You never know how strong you are, until being strong is the only choice you have.
