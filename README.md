@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Intuitive Vue Framework. (7 months ago)
-- [unjs/ufo](https://github.com/unjs/ufo) - 🔗 URL utils for humans (8 months ago)
+- [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Intuitive Vue Framework. (8 months ago)
+- [unjs/ufo](https://github.com/unjs/ufo) - 🔗 URL utils for humans (9 months ago)
 - [divine/nuxt-examples-wgwhqu](https://github.com/divine/nuxt-examples-wgwhqu) - Created with StackBlitz ⚡️ (10 months ago)
 - [nuxt-themes/docus-docs-starter](https://github.com/nuxt-themes/docus-docs-starter) - Starter template for Docus. (10 months ago)
 
