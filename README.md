@@ -10,7 +10,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [nuxt/nuxt](https://github.com/nuxt/nuxt) ([v3.14.1592](https://github.com/nuxt/nuxt/releases/tag/v3.14.1592), 3 weeks ago) - The Intuitive Vue Framework.
+- [nuxt/nuxt](https://github.com/nuxt/nuxt) ([v3.14.1592](https://github.com/nuxt/nuxt/releases/tag/v3.14.1592), 4 weeks ago) - The Intuitive Vue Framework.
 - [unjs/ufo](https://github.com/unjs/ufo) ([v1.5.4](https://github.com/unjs/ufo/releases/tag/v1.5.4), 5 months ago) - 🔗 URL utils for humans
 
 #### 💬 Feedback
