@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [divine/nuxt-ui-2h29uzbh](https://github.com/divine/nuxt-ui-2h29uzbh) - Created with StackBlitz ⚡️ (1 month ago)
+- [divine/nuxt-ui-2h29uzbh](https://github.com/divine/nuxt-ui-2h29uzbh) - Created with StackBlitz ⚡️ (today)
 - [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Intuitive Vue Framework. (10 months ago)
 - [unjs/ufo](https://github.com/unjs/ufo) - 🔗 URL utils for humans (11 months ago)
 
