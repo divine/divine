@@ -12,7 +12,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [nuxt-modules/i18n](https://github.com/nuxt-modules/i18n) ([v9.1.5](https://github.com/nuxt-modules/i18n/releases/tag/v9.1.5), 4 days ago) - I18n module for Nuxt
+- [nuxt-modules/i18n](https://github.com/nuxt-modules/i18n) ([v9.2.0](https://github.com/nuxt-modules/i18n/releases/tag/v9.2.0), today) - I18n module for Nuxt
 - [nuxt/nuxt](https://github.com/nuxt/nuxt) ([v3.15.4](https://github.com/nuxt/nuxt/releases/tag/v3.15.4), 1 week ago) - The Intuitive Vue Framework.
 
 #### 💬 Feedback
