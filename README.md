@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [nuxt-modules/i18n](https://github.com/nuxt-modules/i18n) - I18n module for Nuxt (1 day ago)
+- [nuxt-modules/i18n](https://github.com/nuxt-modules/i18n) - I18n module for Nuxt (2 days ago)
 - [divine/github-uivb9img](https://github.com/divine/github-uivb9img) - Created with StackBlitz ⚡️ (1 week ago)
 - [divine/nuxt-ui-2h29uzbh](https://github.com/divine/nuxt-ui-2h29uzbh) - Created with StackBlitz ⚡️ (2 weeks ago)
 - [divine/nuxt-starter-avn2janf](https://github.com/divine/nuxt-starter-avn2janf) - Created with StackBlitz ⚡️ (2 weeks ago)
@@ -12,7 +12,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [nuxt-modules/i18n](https://github.com/nuxt-modules/i18n) ([v9.2.0](https://github.com/nuxt-modules/i18n/releases/tag/v9.2.0), 1 day ago) - I18n module for Nuxt
+- [nuxt-modules/i18n](https://github.com/nuxt-modules/i18n) ([v9.2.0](https://github.com/nuxt-modules/i18n/releases/tag/v9.2.0), 2 days ago) - I18n module for Nuxt
 - [nuxt/nuxt](https://github.com/nuxt/nuxt) ([v3.15.4](https://github.com/nuxt/nuxt/releases/tag/v3.15.4), 1 week ago) - The Intuitive Vue Framework.
 
 #### 💬 Feedback
