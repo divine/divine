@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [nuxt-modules/i18n](https://github.com/nuxt-modules/i18n) - I18n module for Nuxt (2 weeks ago)
+- [nuxt-modules/i18n](https://github.com/nuxt-modules/i18n) - I18n module for Nuxt (3 weeks ago)
 - [divine/github-uivb9img](https://github.com/divine/github-uivb9img) - Created with StackBlitz ⚡️ (1 month ago)
 - [divine/nuxt-ui-2h29uzbh](https://github.com/divine/nuxt-ui-2h29uzbh) - Created with StackBlitz ⚡️ (1 month ago)
 - [divine/nuxt-starter-avn2janf](https://github.com/divine/nuxt-starter-avn2janf) - Created with StackBlitz ⚡️ (1 month ago)
