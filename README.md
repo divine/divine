@@ -12,7 +12,7 @@
 #### 🔭 Latest releases I've contributed to
 
 - [nuxt-modules/i18n](https://github.com/nuxt-modules/i18n) ([v9.2.1](https://github.com/nuxt-modules/i18n/releases/tag/v9.2.1), 1 week ago) - I18n module for Nuxt
-- [nuxt/nuxt](https://github.com/nuxt/nuxt) ([v3.15.4](https://github.com/nuxt/nuxt/releases/tag/v3.15.4), 4 weeks ago) - The Intuitive Vue Framework.
+- [nuxt/nuxt](https://github.com/nuxt/nuxt) ([v3.15.4](https://github.com/nuxt/nuxt/releases/tag/v3.15.4), 1 month ago) - The Intuitive Vue Framework.
 
 #### 💬 Feedback
 You never know how strong you are, until being strong is the only choice you have.
