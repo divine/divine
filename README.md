@@ -12,7 +12,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [unovue/reka-ui](https://github.com/unovue/reka-ui) ([v2.0.1](https://github.com/unovue/reka-ui/releases/tag/v2.0.1), today) - An open-source UI component library for building high-quality, accessible design systems and web apps for Vue. Previously Radix Vue
+- [unovue/reka-ui](https://github.com/unovue/reka-ui) ([v1.9.17](https://github.com/unovue/reka-ui/releases/tag/v1.9.17), today) - An open-source UI component library for building high-quality, accessible design systems and web apps for Vue. Previously Radix Vue
 - [nuxt-modules/i18n](https://github.com/nuxt-modules/i18n) ([v9.2.1](https://github.com/nuxt-modules/i18n/releases/tag/v9.2.1), 1 week ago) - I18n module for Nuxt
 - [nuxt/nuxt](https://github.com/nuxt/nuxt) ([v3.15.4](https://github.com/nuxt/nuxt/releases/tag/v3.15.4), 1 month ago) - The Intuitive Vue Framework.
 
