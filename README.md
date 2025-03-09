@@ -7,7 +7,6 @@
 - [divine/github-uivb9img](https://github.com/divine/github-uivb9img) - Created with StackBlitz ⚡️ (1 month ago)
 - [divine/nuxt-ui-2h29uzbh](https://github.com/divine/nuxt-ui-2h29uzbh) - Created with StackBlitz ⚡️ (1 month ago)
 - [rust-lang/git2-rs](https://github.com/rust-lang/git2-rs) - libgit2 bindings for Rust (1 month ago)
-- [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Intuitive Vue Framework. (1 year ago)
 
 #### 🔭 Latest releases I've contributed to
 
