@@ -11,8 +11,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [nuxt-modules/i18n](https://github.com/nuxt-modules/i18n) ([v10.0.0-beta.3](https://github.com/nuxt-modules/i18n/releases/tag/v10.0.0-beta.3), today) - I18n module for Nuxt
 - [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.19.0](https://github.com/dunglas/mercure/releases/tag/v0.19.0), 3 days ago) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications
-- [nuxt-modules/i18n](https://github.com/nuxt-modules/i18n) ([v10.0.0-beta.2](https://github.com/nuxt-modules/i18n/releases/tag/v10.0.0-beta.2), 1 week ago) - I18n module for Nuxt
 - [unovue/reka-ui](https://github.com/unovue/reka-ui) ([v2.2.0](https://github.com/unovue/reka-ui/releases/tag/v2.2.0), 3 weeks ago) - An open-source UI component library for building high-quality, accessible design systems and web apps for Vue. Previously Radix Vue
 
 #### 💬 Feedback
